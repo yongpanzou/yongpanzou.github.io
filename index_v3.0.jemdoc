@@ -12,28 +12,27 @@
 ~~~
 {}{img_left}{./original.jpg}{photo}{125px}{167px}{}
 = {{<span style="font-size:xx-large;font-family:Times New Roman;color:black;"><b>}}Yongpan Zou{{</b></span>}} {{<span style="font-size:xx-large;font-family:STXingkai;color:black;"><b>}}(邹永攀){{</b></span>}}
-Assistant Professor \n
+{{<font color=black><b>}}Assistant Professor{{</b></font>}} \n
 [http://csse.szu.edu.cn/en/index College of Computer Science and Software Engineering] \n
 [http://www.szu.edu.cn/2014/en/ Shenzhen University] \n
 #Assistant Director, Engineering Research Center of Wireless Big Data and Future Network \n 
-*Addr.:*Room 720, Building of Computer Science, South Distrcit, Shenzhen University \n
-*Email:* /yongpanzou2012\@gmail.com/;   *Tel:*/XXXX/ \n
+*Addr.:*Room 943\/720, Building of Computer Science, South Distrcit, Shenzhen University \n
+*Email:* /yongpanzou2012\@gmail.com/\n
 [https://scholar.google.com.hk/ Google Scholar]\n
 ~~~
 
 
 
 == Biography
-Yongpan Zou is currently an Assistant Professor in the Smart Sensing and Mobile Sensing Lab (SSMC), belonging to the [http://csse.szu.edu.cn/en/index College of Computer Science and Software Engineering] of [http://www.szu.edu.cn/2014/en/ Shenzhen University], since July 2017. Prior to this, he was a Postdoc in University of Macau since Feburary 2017. He obtained his Ph.D in 2017 in the [https://www.cse.ust.hk/ Department of Computer Science and Engineering], [http://www.ust.hk/ Hong Kong University of Science and Technology], under the supervision of [http://www.cse.ust.hk/~ni/ Professor Lionel M. Ni]. In 2013, he received his B.E in [http://clet.xjtu.edu.cn/index.htm School of Chemical Engineering and Technology], [http://en.xjtu.edu.cn/ Xi'an Jiaotong University].
+I am currently an Assistant Professor in the [http://csse.szu.edu.cn/en/index College of Computer Science and Software Engineering] of [http://www.szu.edu.cn/2014/en/ Shenzhen University], since September 2017. Prior to this, I worked as a Postdoc in University of Macau since Feburary 2017. I obtained my Ph.D in 2017 in the [https://www.cse.ust.hk/ CSE Department] of [http://www.ust.hk/ HKUST], under the supervision of [http://www.cse.ust.hk/~ni/ Professor Lionel M. Ni]. In 2013, I received my B.E in [http://clet.xjtu.edu.cn/index.htm School of Chemical Engineering and Technology], [http://en.xjtu.edu.cn/ Xi'an Jiaotong University].
 
 
 == Research Interests
 Wearable and Mobile Computing, Human-computer Interaction, Ubiquitous computing
 
 == News
-- 2017/06/15, our paper about Wi-Fi Radar is accepted by IEEE COMMAG!
-- 2017/07/18, our paper "ABAid: Navigation Aid for Blind People using Acoustic Signals" is accepted by IEEE MASS 2017! This is the first paper that is written by our student.
-
+- 2017\/07\/18, our paper "ABAid: Navigation Aid for Blind People using Acoustic Signals" is accepted by IEEE MASS 2017. This is a paper first-authored by a UG student under my supervision.
+- 2017\/06\/15, our paper about Wi-Fi Radar is accepted by IEEE COMMAG
 
 
 == Publications
@@ -64,20 +63,22 @@ Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu
 
 === Journal Papers
 - *Wi-Fi Radar: Recognizing Human Behavior with Commodity Wi-Fi*
-\n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Weifeng Liu, Kaishun Wu, Yun Li, Lionel M. Ni \n
-/in IEEE Communications Magazine ({{<font color=blue><b>}}IEEE COMMAG{{</b></font>}})/, Volume16, Issue 2, pp. 381-393, 2016. \[[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7445209 PDF]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:kPtDIPmyNoUJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWSFzfTeSSQ0VSjdWB1BBjVsD9mVBa6S1&scisf=4&ct=citation&cd=-1&hl=zh-CN BibTex]\]
+\n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Weifeng Liu, Kaishun Wu, Lionel M. Ni \n
+/in IEEE Communications Magazine/, Volume16, Issue 2, pp. 381-393, 2016. \[[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7445209 PDF]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:kPtDIPmyNoUJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWSFzfTeSSQ0VSjdWB1BBjVsD9mVBa6S1&scisf=4&ct=citation&cd=-1&hl=zh-CN BibTex]\]
 
 - *GRfid: A Device-free Gesture Recognition System Using COTS RFID Device*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Jiang Xiao, Jinsong Han, Kaishun Wu, Yun Li, Lionel M. Ni \n
-/in IEEE Transactions on Mobile Computing ({{<font color=blue><b>}}TMC{{</b></font>}})/, Volume16, Issue 2, pp. 381-393, 2016. \[[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7445209 PDF]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:kPtDIPmyNoUJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWSFzfTeSSQ0VSjdWB1BBjVsD9mVBa6S1&scisf=4&ct=citation&cd=-1&hl=zh-CN BibTex]\]
+/in IEEE Transactions on Mobile Computing/, Volume16, Issue 2, pp. 381-393, 2016. \[[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7445209 PDF]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:kPtDIPmyNoUJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWSFzfTeSSQ0VSjdWB1BBjVsD9mVBa6S1&scisf=4&ct=citation&cd=-1&hl=zh-CN BibTex]\]
+
+#({{<font color=blue><b>}}TMC{{</b></font>}})
 
 - *SmartScanner: Know More in Walls with Your Smartphone!* 
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Guanhua Wang, Kaishun Wu, Lionel M. Ni \n
-/in IEEE Transactions on Mobile Computing ({{<font color=blue><b>}}TMC{{</b></font>}})/, Vol. 15, Issue 11, pp. 2865-2877, 2016. \[[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7355364 PDF]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:VUJmzQzNMCwJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWSFz05W6rEIsBxwjGLo4f738IJbPI9dX&scisf=4&ct=citation&cd=-1&hl=zh-CN BibTex]\]
+/in IEEE Transactions on Mobile Computing/, Vol. 15, Issue 11, pp. 2865-2877, 2016. \[[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7355364 PDF]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:VUJmzQzNMCwJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWSFz05W6rEIsBxwjGLo4f738IJbPI9dX&scisf=4&ct=citation&cd=-1&hl=zh-CN BibTex]\]
 
 - *We Can Hear You with Wi-Fi!* {{<font color=red><b>}}(Featured Article!){{</b></font>}}
 \n Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu Zhou, Kaishun Wu, Lionel M. Ni \n
-/in IEEE Transactions on Mobile Computing ({{<font color=blue><b>}}TMC{{</b></font>}})/, Vol. 15, Issue 11, pp. 2907-2920, 2016. \[[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7384744 PDF]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:WI9PnbZk6lkJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWSF0ER_VxywTigZeO5LVrkzigcuOW1F4&scisf=4&ct=citation&cd=-1&hl=zh-CN BibTex]\]
+/in IEEE Transactions on Mobile Computing/, Vol. 15, Issue 11, pp. 2907-2920, 2016. \[[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7384744 PDF]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:WI9PnbZk6lkJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWSF0ER_VxywTigZeO5LVrkzigcuOW1F4&scisf=4&ct=citation&cd=-1&hl=zh-CN BibTex]\]
 
 
 
@@ -94,36 +95,27 @@ The Indoor WiFi Radar Sense (IWRS) project is a system to detect, localize, and 
 
 == Professional Activities
 - TPC Member for
--- IEEE Globecom 2017
+-- IEEE Globecom 2017, IEEE ICPADS 2017, VTC 2018-Spring
 - Reviewer for
--- ICPADS 2016
--- Globecom 2017
--- TMC, COMMAG
+-- ICPADS 2016, Ubicomp 2016, Globecom 2017, TMC, COMMAG, ToN
 
 == Teaching Experience
-- Computer Networking
-- Operating System
+- Wireless Sensor Network, Fall 2017.
 
-== Honors & Awards
-- Ph.D Scholarship, 2013-2017
-- Travel Grant for Percom 2017
+#== Honors & Awards
+#- Ph.D Scholarship, 2013-2017
+#- Travel Grant for Percom 2017
 
 
 == Group Member
 - PG Students
--- Weifeng Liu, Master since 2015
--- Shufeng Ye, Master since 2015
--- Changsheng Zhou, Master since 2015
--- Xuejin Zhou, Master since 2015
--- Junjun Bao, Master since 2015
+-- Weifeng Liu, Shufeng Ye, Changsheng Zhou, Xuejin Zhou, Junjun Bao, since 2015
+-- Mengqi Chen, Qiang Yang, Meng Zhao, since 2016
 - UG Students
--- Jingchuan Xu, since 2015 (now in Tencent)
--- Zehui Zheng, since 2015 (Enrolled by University of Queen with full scholarship)
--- Jinyong Wu, since 2015
--- Dan Wang, since 2015 
+-- Jingchuan Xu (now in Tencent SNG), Zehui Zheng (Enrolled by University of Queen with full scholarship), Jinyong Wu, Dan Wang, since 2015
 
 == Misc.
-- TPC Menber for
+- Reading, reading...
 
 {{
 	</div>
