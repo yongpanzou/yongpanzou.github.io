@@ -1,0 +1,93 @@
+# jemdoc: nofooter
+# jemdoc: addcss{./css/bootstrap.min.css}
+# jemdoc: addcss{./css/custom.css}
+# jemdoc: addjs{./js/bootstrap.min.js}
+{{<div class="container"><div class="row">
+<div class="col-xs-2 col col-sm-2 col-md-1 col-lg-1"></div>
+<div class="col-xs-8 col col-sm-8 col-md-10 col-lg-10" id="contentall">
+	<div class="row">
+		<div class="col-xs-2 col col-sm-2 col-md-1 col-lg-1"></div>
+		<div class="col-xs-2 col col-sm-2 col-md-10 col-lg-10">	
+		}}
+~~~
+{}{img_left}{./original.jpg}{photo}{125px}{175px}{}
+= Yongpan Zou (邹永攀)
+Assistant Professor \n
+[http://csse.szu.edu.cn/en/index College of Computer Science and Software Engineering] \n
+[http://www.szu.edu.cn/2014/en/ Shenzhen University] \n
+*Addr.:*Room 720, Building of Computer Science, South Distrcit, Shenzhen University \n
+*Email:* /yongpanzou2012\@gmail.com/;   *Tel:*/XXXX/ \n
+[https://scholar.google.com.hk/ Google Scholar]s
+~~~
+
+
+
+== Biography
+Yongpan Zou is currently an Assistant Professor in the Smart Sensing and Mobile Sensing Lab (SSMC), belonging to the [http://csse.szu.edu.cn/en/index College of Computer Science and Software Engineering] of [http://www.szu.edu.cn/2014/en/ Shenzhen University], since July 2017. Prior to this, he was a Postdoc in University of Macau since Feburary 2017. He obtained his Ph.D in 2017 in the [https://www.cse.ust.hk/ Department of Computer Science and Engineering], [http://www.ust.hk/ Hong Kong University of Science and Technology], under the supervision of [http://www.cse.ust.hk/~ni/ Professor Lionel M. Ni]. In 2013, he received his B.E in [http://clet.xjtu.edu.cn/index.htm School of Chemical Engineering and Technology], [http://en.xjtu.edu.cn/ Xi'an Jiaotong University].
+
+
+== Research Interests
+Wearable and Mobile Computing, Human-computer Interaction, Ubiquitous computing
+
+== News
+- 2017/05, My personal page is online!
+
+
+
+== Publications
+* Corresponding Author
+
+=== Conference Papers
+- \[*Percom'17*\] *Yongpan Zou*, Yuxi Wang, Shufeng Ye, Kaishun Wu, Lionel M. Ni, ‘‘*TagFree: Passive Object Differentiation via Physical Layer Radiometric Signatures*’’, in Proceedings of IEEE International Conference on Pervasive Computing and Communiations, Big Island, Hawaii, USA, March 13-17, 2017. \[[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7917870 PDF]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:j0Qsbwk7BMkJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWSCXi3hhvKr3C_Owxn2T7sEaIL8dead3&scisf=4&ct=citation&cd=-1&hl=zh-CN BibTex]\]
+
+- \[*ICCCN'15*\] Wenfeng He, Kaishun Wu, *Yongpan Zou*, Zhong Ming, "*WiG: WiFi-Based Gesture Recognition System*", in proceedings of the 24th International Conference on Computer Communication and Networks, Las Vegas, Nevada, USA, August, 2015. \[[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7288485 PDF]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:_CCyx4JW5T4J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWSF0eeJZd4LxLoIoHA54aqHDWF3GFYRF&scisf=4&ct=citation&cd=-1&hl=zh-CN BibTex]\]
+
+- \[*MASS'14*\] *Yongpan Zou*, Guanhua Wang, Kaishun Wu, Lionel M. Ni, “SmartSensing: Sensing Through Walls with Your Smartphone!”, in the Proceedings of 11th IEEE International Conference on Mobile Ad hoc and Sensor Systems, Philadelphia, Pennsylvania, USA, October, 2014. (*Best Paper Award*)\[[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7035665 PDF]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:yuA-aZczvk8J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWSCUE44oQpik8TZ6TndJASrCn_7czd8X&scisf=4&ct=citation&cd=-1&hl=zh-CN BibTeX]\]
+
+- \[*Mobicom'14*\] Guanhua Wang, *Yongpan Zou*, Zimu Zhou, Kaishun Wu, Lionel M. Ni, “*We Can Hear You with WiFi!*”, in Proceedings of the 20th Annual International Conference on Mobile Computing and Networking, Maui, Hawaii, USA, 2014. \[[http://delivery.acm.org/10.1145/2640000/2639112/p593-wang.pdf?ip=223.74.34.36&id=2639112&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E5FBA890B628FA01E%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=765042522&CFTOKEN=66161294&__acm__=1495307295_108ed2b2772931bf0553ca1dc0142247 PDF]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:Bszq6a5rERsJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWSCV98_C7nUfhBYA5mS2sSMenCSnx2Yk&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1 BibTex]\]
+
+#=== Workshop Papers,Poster & Demo Abstracts
+#. \[TMC\] Han Ding, Jinsong Han, Longfei Shangguan, Wei Xi, Zhiping Jiang, Zheng Yang, Zimu Zhou, Panlong Yang, Jizhong Zhao, ‘‘A Platform for Free-weight Exercise Monitoring with Passive Tags’’, IEEE Transactions on Mobile Computing (to appear) \[[http://www.tik.ee.ethz.ch/~zzhou/ pdf]\]
+
+=== Journal Papers
+- \[*TMC*\] *Yongpan Zou*, Jiang Xiao, Jinsong Han, Kaishun Wu, Yun Li, Lionel M. Ni, “*GRfid: A Device-free Gesture Recognition System Using COTS RFID Device*”, in IEEE Transactions on Mobile Computing, Volume16, Issue 2, pp. 381-393, 2016. \[[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7445209 PDF]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:kPtDIPmyNoUJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWSFzfTeSSQ0VSjdWB1BBjVsD9mVBa6S1&scisf=4&ct=citation&cd=-1&hl=zh-CN BibTex]\]
+
+- \[*TMC*\] *Y. Zou*, G. Wang, K. Wu, L. Ni, “*SmartScanner: Know More in Walls with Your Smartphone!*”, in IEEE Transactions on Mobile Computing, Vol. 15, Issue 11, pp. 2865-2877, 2016. \[[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7355364 PDF]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:VUJmzQzNMCwJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWSFz05W6rEIsBxwjGLo4f738IJbPI9dX&scisf=4&ct=citation&cd=-1&hl=zh-CN BibTex]\]
+
+- \[*TMC*\] Guanhua Wang, *Yongpan Zou*, Zimu Zhou, Kaishun Wu, Lionel M. Ni, “*We Can Hear You with Wi-Fi!*”, in IEEE Transactions on Mobile Computing, Vol. 15, Issue 11, pp. 2907-2920, 2016. \[[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7384744 PDF]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:WI9PnbZk6lkJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWSF0ER_VxywTigZeO5LVrkzigcuOW1F4&scisf=4&ct=citation&cd=-1&hl=zh-CN BibTex]\]
+
+
+== Projects
+~~~
+{}{img_left}{./Project-Photo-IWRS.jpg}{photo}{150px}{100px}{}
+=== [http://tns.thss.tsinghua.edu.cn/wifiradar/ IWRS]
+The Indoor WiFi Radar Sense (IWRS) project is a system to detect, localize, and identify human motions and the environmental contexts using WiFi signals, such as human detection, line-of-sight condition identification, breath detection and lips reading.
+~~~
+
+#== Patents
+#. *邹永攀*, 伍楷舜, 倪明选, "一种墙体内管网布局的重建方法"
+
+== Professional Activities
+- TPC Menber for
+-- IEEE Globecom 2017
+- Reviewer for
+-- ICPADS 2016
+-- Globecom 2017
+-- TMC, COMMAG
+
+== Teaching Experience
+- Computer Networking
+- Operating System
+
+== Honors & Awards
+- Ph.D Scholarship, 2013-2017
+- Travel Grant for Percom 2017
+
+== Misc.
+- TPC Menber for
+
+{{
+	</div>
+	<div class="col-xs-2 col col-sm-2 col-md-1 col-lg-1"></div>
+	</div>
+	</div><div class="col-xs-2 col col-sm-2 col-md-1 col-lg-1"></div></div>}}
