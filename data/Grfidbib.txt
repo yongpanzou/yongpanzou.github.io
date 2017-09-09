@@ -1,0 +1,10 @@
+@article{zou2017grfid,
+  title={Grfid: A device-free rfid-based gesture recognition system},
+  author={Zou, Yongpan and Xiao, Jiang and Han, Jinsong and Wu, Kaishun and Li, Yun and Ni, Lionel M},
+  journal={IEEE Transactions on Mobile Computing},
+  volume={16},
+  number={2},
+  pages={381--393},
+  year={2017},
+  publisher={IEEE}
+}

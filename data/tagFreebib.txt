@@ -1,0 +1,8 @@
+@inproceedings{zou2017tagfree,
+  title={TagFree: Passive object differentiation via physical layer radiometric signatures},
+  author={Zou, Yongpan and Wang, Yuxi and Ye, Shufeng and Wu, Kaishun and Ni, Lionel M},
+  booktitle={Proceedings of IEEE PerCom},
+  pages={237--246},
+  year={2017},
+  organization={IEEE}
+}

@@ -1,0 +1,129 @@
+# jemdoc: nofooter
+# jemdoc: addcss{./css/bootstrap.min.css}
+# jemdoc: addcss{./css/custom.css}
+# jemdoc: addjs{./js/bootstrap.min.js}
+# jemdoc: title{Yongpan Zou}
+{{<div class="container"><div class="row">
+<div class="col-xs-2 col col-sm-2 col-md-1 col-lg-1"></div>
+<div class="col-xs-8 col col-sm-8 col-md-10 col-lg-10" id="contentall">
+	<div class="row">
+		<div class="col-xs-2 col col-sm-2 col-md-1 col-lg-1"></div>
+		<div class="col-xs-2 col col-sm-2 col-md-10 col-lg-10">	
+		}}
+~~~
+{}{img_left}{./data/original.jpg}{photo}{125px}{167px}{}
+= {{<span style="font-size:xx-large;font-family:Times New Roman;color:black;"><b>}}Yongpan Zou{{</b></span>}} {{<span style="font-size:xx-large;font-family:STXingkai;color:black;"><b>}}(邹永攀){{</b></span>}}
+{{<font color=black><b>}}Assistant Professor{{</b></font>}} \n
+[http://csse.szu.edu.cn/en/index College of Computer Science and Software Engineering] \n
+[http://www.szu.edu.cn/2014/en/ Shenzhen University] \n
+#Assistant Director, Engineering Research Center of Wireless Big Data and Future Network \n 
+*Addr.:*Room 943\/720, Building of Computer Science, South Distrcit, Shenzhen University \n
+*Email:* /yongpan\@szu.edu.cn/\n
+[https://scholar.google.com.hk/ Google Scholar]\n
+~~~
+
+
+
+== Biography
+I am currently an Assistant Professor in the [http://csse.szu.edu.cn/en/index College of Computer Science and Software Engineering] of [http://www.szu.edu.cn/2014/en/ Shenzhen University], since September 2017. Prior to this, I worked as a Postdoc in University of Macau since Feburary 2017. I obtained my Ph.D in 2017 in the [https://www.cse.ust.hk/ CSE Department] of [http://www.ust.hk/ HKUST], under the supervision of [http://www.cse.ust.hk/~ni/ Professor Lionel M. Ni]. In 2013, I received my B.E in [http://clet.xjtu.edu.cn/index.htm School of Chemical Engineering and Technology], [http://en.xjtu.edu.cn/ Xi'an Jiaotong University].
+
+My research interest covers Wearable and Mobile Computing, Human-computer Interaction and Ubiquitous computing.
+
+
+#== Research Interests
+#Wearable and Mobile Computing, Human-computer Interaction, Ubiquitous computing
+
+== News
+- 2017\/07\/18, our paper "ABAid: Navigation Aid for Blind People using Acoustic Signals" is accepted by IEEE MASS 2017. This is a paper first-authored by a UG student under my supervision.
+- 2017\/06\/15, our paper about Wi-Fi Radar is accepted by IEEE COMMAG
+
+
+== Publications
+* Corresponding Author
+
+=== Conference Papers
+- *ABAid: Navigation Aid for Blind People using Acoustic Signals*
+\n Zehui Zheng, Weifeng Liu, Rukhsana Ruby, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Kaishun Wu\n
+/in Proceedings of IEEE MASS/, Florida, USA, 2017. \[[./data/ABAid.pdf Paper]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:j0Qsbwk7BMkJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWSCXi3hhvKr3C_Owxn2T7sEaIL8dead3&scisf=4&ct=citation&cd=-1&hl=zh-CN BibTex]\]
+- *TagFree: Passive Object Differentiation via Physical Layer Radiometric Signatures*
+\n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Yuxi Wang, Shufeng Ye, Kaishun Wu, Lionel M. Ni \n
+/in Proceedings of IEEE Percom/, Hawaii, USA, 2017. \[[./data/TagFree.pdf Paper]\]\[[./data/tagFreebib.txt BibTex]\]
+
+- *WiG: WiFi-Based Gesture Recognition System* \n
+Wenfeng He, Kaishun Wu, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zhong Ming \n
+/in Proceedings of IEEE ICCCN/, Las Vegas, USA, 2015. \[[./data/WiG.pdf Paper]\]\[[./data/Wigbib.txt BibTex]\]
+
+- *SmartSensing: Sensing Through Walls with Your Smartphone!* {{<font color=red><b>}}(Best Paper Award!){{</b></font>}}
+\n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Guanhua Wang, Kaishun Wu, Lionel M. Ni \n
+/in Proceedings of IEEE MASS/, Philadelphia, USA, 2014. \[[./data/smartsense.pdf Paper]\]\[[./data/Smarsensebib.txt BibTeX]\]
+
+- *We Can Hear You with WiFi!* \n
+Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu Zhou, Kaishun Wu, Lionel M. Ni \n
+/in Proceedings of ACM Mobicom/, Hawaii, USA, 2014. \[[./data/WiHear.pdf Paper]\]\[[./data/wihearbib.txt BibTex]\]
+
+
+=== Journal Papers
+- *Wi-Fi Radar: Recognizing Human Behavior with Commodity Wi-Fi*
+\n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Weifeng Liu, Kaishun Wu, Lionel M. Ni \n
+/in IEEE Communications Magazine/, Volume16, Issue 2, pp. 381-393, 2016. \[[./data/wifiRadar.pdf Paper]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:kPtDIPmyNoUJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWSFzfTeSSQ0VSjdWB1BBjVsD9mVBa6S1&scisf=4&ct=citation&cd=-1&hl=zh-CN BibTex]\]
+
+- *GRfid: A Device-free Gesture Recognition System Using COTS RFID Device*
+\n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Jiang Xiao, Jinsong Han, Kaishun Wu, Yun Li, Lionel M. Ni \n
+/in IEEE Transactions on Mobile Computing/, Volume16, Issue 2, pp. 381-393, 2016. \[[./data/GRfid.pdf Paper]\]\[[./data/Grfidbib.txt BibTex]\]
+
+#({{<font color=blue><b>}}TMC{{</b></font>}})
+
+- *SmartScanner: Know More in Walls with Your Smartphone!* 
+\n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Guanhua Wang, Kaishun Wu, Lionel M. Ni \n
+/in IEEE Transactions on Mobile Computing/, Vol. 15, Issue 11, pp. 2865-2877, 2016. \[[./data/SmartScanner.pdf Paper]\]\[[./data/Smartscannerbib.txt BibTex]\]
+
+- *We Can Hear You with Wi-Fi!* {{<font color=red><b>}}(Featured Article!){{</b></font>}}
+\n Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu Zhou, Kaishun Wu, Lionel M. Ni \n
+/in IEEE Transactions on Mobile Computing/, Vol. 15, Issue 11, pp. 2907-2920, 2016. \[[./data/wihear_tmc.pdf Paper]\]\[[./data/wihearbib.txt BibTex]\]
+
+
+
+
+== Projects
+~~~
+{}{img_left}{./data/Project-Behavicker.jpg}{photo}{150px}{100px}{}
+=== [https://yongpanzou.github.io/ Behavicker]
+The Indoor WiFi Radar Sense (IWRS) project is a system to detect, localize, and identify human motions and the environmental contexts using WiFi signals, such as human detection, line-of-sight condition identification, breath detection and lips reading.
+~~~
+
+~~~
+{}{img_left}{./data/Project-BiLock.jpg}{photo}{150px}{100px}{}
+=== [https://yongpanzou.github.io/ BiLock]
+The Indoor WiFi Radar Sense (IWRS) project is a system to detect, localize, and identify human motions and the environmental contexts using WiFi signals, such as human detection, line-of-sight condition identification, breath detection and lips reading.
+~~~
+
+
+
+
+
+== Professional Activities
+- TPC Member for
+-- IEEE Globecom 2017, IEEE ICPADS 2017, VTC 2018-Spring
+- Reviewer for
+-- ICPADS 2016, Ubicomp 2016, Globecom 2017, TMC, COMMAG, ToN
+
+#== Teaching Experience
+#- Wireless Sensor Network, Fall 2017
+
+
+
+== Group Members
+- PG Students
+-- Weifeng Liu, Shufeng Ye, Changsheng Zhou, Xuejin Zhou, Junjun Bao, since 2015
+-- Mengqi Chen, Qiang Yang, Meng Zhao, since 2016
+- UG Students
+-- Jingchuan Xu (now in Tencent SNG), Zehui Zheng (Enrolled by University of Queen with full scholarship), Jinyong Wu, Dan Wang, since 2015
+
+== Misc.
+- Reading, reading...
+
+{{
+	</div>
+	<div class="col-xs-2 col col-sm-2 col-md-1 col-lg-1"></div>
+	</div>
+	</div><div class="col-xs-2 col col-sm-2 col-md-1 col-lg-1"></div></div>}}

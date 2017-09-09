@@ -1,0 +1,10 @@
+@article{zou2016smartscanner,
+  title={Smartscanner: Know more in walls with your smartphone!},
+  author={Zou, Yongpan and Wang, Guanhua and Wu, Kaishun and Ni, Lionel M},
+  journal={IEEE Transactions on Mobile Computing},
+  volume={15},
+  number={11},
+  pages={2865--2877},
+  year={2016},
+  publisher={IEEE}
+}

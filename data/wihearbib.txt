@@ -1,0 +1,10 @@
+@article{wang2016we,
+  title={We can hear you with wi-fi!},
+  author={Wang, Guanhua and Zou, Yongpan and Zhou, Zimu and Wu, Kaishun and Ni, Lionel M},
+  journal={IEEE Transactions on Mobile Computing},
+  volume={15},
+  number={11},
+  pages={2907--2920},
+  year={2016},
+  publisher={IEEE}
+}
