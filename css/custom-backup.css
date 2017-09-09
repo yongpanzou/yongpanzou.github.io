@@ -11,7 +11,7 @@ table#tlayout {
 }
 
 body {
-	background: #E6E6E6;
+	background: gray;
 	font-family: Georgia, serif;
 	padding-bottom: 8px;
 	margin: 0;
@@ -40,7 +40,7 @@ body {
 	padding-left: 1.0em;
 	padding-right: 1.0em;
     border: none;
-    background: #E6E6E6;
+    background: gray;
     text-align: left;
     vertical-align: top;
 }
@@ -65,12 +65,12 @@ a, a > tt {
 }
 
 a:hover {
-	border-bottom: 1px #E6E6E6 dotted;
+	border-bottom: 1px gray dotted;
 }
 
 #layout-menu a.current:link, #layout-menu a.current:visited {
 	color: #022b6d;
-	border-bottom: 1px #E6E6E6 solid;
+	border-bottom: 1px gray solid;
 }
 
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
