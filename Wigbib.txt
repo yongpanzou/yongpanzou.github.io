@@ -1,0 +1,8 @@
+@inproceedings{he2015wig,
+  title={Wig: Wifi-based gesture recognition system},
+  author={He, Wenfeng and Wu, Kaishun and Zou, Yongpan and Ming, Zhong},
+  booktitle={Proceedings of IEEE ICCCN},
+  pages={1--7},
+  year={2015},
+  organization={IEEE}
+}
