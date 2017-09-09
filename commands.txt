@@ -1,0 +1,8 @@
+<a href=" ">paper</ a> £¨modified in xlm file£©
+
+python jemdoc.py index.jemdoc
+
+git status
+git add *
+git commit -m "1"
+git push -u origin master
