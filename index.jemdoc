@@ -2,7 +2,7 @@
 # jemdoc: addcss{./css/bootstrap.min.css}
 # jemdoc: addcss{./css/custom.css}
 # jemdoc: addjs{./js/bootstrap.min.js}
-# jemdoc: title{Wisdom Tsou}
+# jemdoc: title{YONGPAN's Homepage}
 {{<div class="container"><div class="row">
 <div class="col-xs-2 col col-sm-2 col-md-1 col-lg-1"></div>
 <div class="col-xs-8 col col-sm-8 col-md-10 col-lg-10" id="contentall">
@@ -12,7 +12,7 @@
 		}}
 ~~~
 {}{img_left}{./data/original.jpg}{photo}{125px}{171px}{}
-= {{<span style="font-size:xx-large;font-family:Times New Roman;color:black;"><b>}}Wisdom Tsou{{</b></span>}} {{<span style="font-size:xx-large;font-family:STXingkai;color:black;"><b>}}(邹永攀){{</b></span>}}
+= {{<span style="font-size:xx-large;font-family:Times New Roman;color:black;"><b>}}YONGPAN ZOU{{</b></span>}} {{<span style="font-size:xx-large;font-family:STXingkai;color:black;"><b>}}(邹永攀){{</b></span>}}
 {{<font color=black><b>}}Assistant Professor{{</b></font>}} \n
 [http://csse.szu.edu.cn/en/index College of Computer Science and Software Engineering] \n
 [http://www.szu.edu.cn/2014/en/ Shenzhen University] \n
