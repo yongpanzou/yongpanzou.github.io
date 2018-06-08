@@ -27,11 +27,11 @@
 == Biography
 I am currently an Assistant Professor in the [http://csse.szu.edu.cn/en/index College of Computer Science and Software Engineering] of [http://www.szu.edu.cn/2014/en/ Shenzhen University], since September 2017. I obtained my Ph.D in February 2017 in the [https://www.cse.ust.hk/ CSE Department] of [http://www.ust.hk/ HKUST], under the supervision of [http://www.cse.ust.hk/~ni/ Professor Lionel M. Ni]. Prior to this, I received my B.E in [http://clet.xjtu.edu.cn/index.htm School of Chemical Engineering and Technology], [http://en.xjtu.edu.cn/ Xi'an Jiaotong University] in July 2013.
 
-My research interest covers Wearable and Mobile Computing, Human-computer Interaction and Ubiquitous computing.
 
 
-#== Research Interests
-#Wearable and Mobile Computing, Human-computer Interaction, Ubiquitous computing
+== Research Interests
+#My research interest covers {{<font color=black><b>}}Wearable and Mobile Computing{{</b></font>}}, {{<font color=black><b>}}Human-computer Interaction{{</b></font>}} and {{<font color=black><b>}}Ubiquitous computing{{</b></font>}}. My vision is to develop new technologies, algorithms, and systems that enable smart sensing, provide intelligent services, and deliver novel applications. I draw on novel sensing technologies with {{<font color=black><b>}}machine learning{{</b></font>}} models, {{<font color=black><b>}}signal processing{{</b></font>}} algorithms, and {{<font color=black><b>}}mathematical methods{{</b></font>}} to solve real-world problems.
+My research interest covers /Wearable and Mobile Computing/, /Human-computer Interaction/ and /Ubiquitous computing/. My vision is to develop new technologies, algorithms, and systems that enable smart sensing, provide intelligent services, and deliver novel applications. I draw on novel sensing \& computing technologies with /embedded system design/, /machine learning models/, /signal processing algorithms/, and /mathematical methods/ to solve real-world problems.
 
 == News
 - {{<font color=red><b>}}I am looking for self-motivated master students who are interested in intelligent sening, wearable\/mobile computing, and relevant areas. If you have interest, please feel free to contact me.{{</b></font>}}
@@ -105,7 +105,7 @@ The Indoor WiFi Radar Sense (IWRS) project is a system to detect, localize, and 
 
 == Professional Activities
 - TPC Member for
--- IEEE Globecom 2017, IEEE ICPADS 2017, VTC 2018-Spring
+-- IEEE Globecom 2017, IEEE ICPADS 2017, VTC 2018-Spring, IEEE Globecom 2018
 - Reviewer for
 -- ICPADS 2016, Ubicomp 2016, Globecom 2017, TMC, COMMAG, ToN
 
@@ -117,7 +117,7 @@ The Indoor WiFi Radar Sense (IWRS) project is a system to detect, localize, and 
 == Group Members
 - PG Students
 -- Weifeng Liu, Shufeng Ye, Changsheng Zhou, Xuejin Zhou, Junjun Bao, since 2015
--- Mengqi Chen, Qiang Yang, Meng Zhao, since 2016
+-- Qiang Yang, Meng Zhao, since 2016
 -- Yetong Han, Jiawei Lin, since 2017
 - UG Students
 -- Dan Wang (/now recommended to PG in SZU without entrance examination/), since 2015

@@ -2,7 +2,7 @@
 # jemdoc: addcss{./css/bootstrap.min.css}
 # jemdoc: addcss{./css/custom.css}
 # jemdoc: addjs{./js/bootstrap.min.js}
-# jemdoc: title{Yongpan Zou}
+# jemdoc: title{Wisdom Tsou}
 {{<div class="container"><div class="row">
 <div class="col-xs-2 col col-sm-2 col-md-1 col-lg-1"></div>
 <div class="col-xs-8 col col-sm-8 col-md-10 col-lg-10" id="contentall">
