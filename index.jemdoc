@@ -34,7 +34,7 @@ I am currently an Assistant Professor in the [http://csse.szu.edu.cn/en/index Co
 My research interest covers /Wearable and Mobile Computing/, /Human-computer Interaction/ and /Ubiquitous computing/. My vision is to develop new technologies, algorithms, and systems that enable smart sensing, provide intelligent services, and deliver novel applications. I draw on novel sensing \& computing technologies with /embedded system design/, /machine learning models/, /signal processing algorithms/, and /mathematical methods/ to solve real-world problems.
 
 == News
-- {{<font color=red><b>}}I am looking for self-motivated master students who are interested in intelligent sening, wearable\/mobile computing, and relevant areas. If you have interest, please feel free to contact me.{{</b></font>}}
+- A Deomo paper is accpeted by Mobisys 2018
 - 2018\/02\/20, invited to be TPC member of Globecom 2018
 - 2017\/07\/18, our paper "ABAid: Navigation Aid for Blind People using Acoustic Signals" is accepted by IEEE MASS 2017. The first author is a UG student under my supervision
 - 2017\/07\/01, start a one-month academic visit to Professor Daqing Zhang's group in Peking University 
@@ -85,8 +85,10 @@ Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu
 \n Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu Zhou, Kaishun Wu, Lionel M. Ni \n
 /in IEEE Transactions on Mobile Computing/, Vol. 15, Issue 11, pp. 2907-2920, 2016. \[[./data/wihear_tmc.pdf Paper]\]\[[./data/wihearbib.txt BibTex]\]
 
-
-
+=== Workshop/Poster/Demo
+- *Demo: A Novel Finger-Assisted Touch-free Text Input System Without Training*
+\n Qiang Yang, Hongrui Fu, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Kaishun Wu \ne
+/in Proceedings of ACM Mobisys/, Munich, Germany, 2018. \[[./data/echotypeDemo.pdf Paper]\]\[[./data/echotypeDemobib.txt BibTex]\]
 
 == Projects
 ~~~
