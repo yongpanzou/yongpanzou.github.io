@@ -34,11 +34,12 @@ I am currently an Assistant Professor in the [http://csse.szu.edu.cn/en/index Co
 My research interest covers /Wearable and Mobile Computing/, /Human-computer Interaction/ and /Ubiquitous computing/. My vision is to develop new technologies, algorithms, and systems that enable smart sensing, provide intelligent services, and deliver novel applications. I draw on novel sensing \& computing technologies with /embedded system design/, /machine learning models/, /signal processing algorithms/, and /mathematical methods/ to solve real-world problems.
 
 == News
-- 2018\/04\/29, a Deomo paper "A Novel Finger-Assisted Touch-free Text Input System Without Training" is accpeted by Mobisys 2018. The first author is a master student under my supervision
-- 2018\/02\/20, invited to be TPC member of Globecom 2018
-- 2017\/07\/18, our paper "ABAid: Navigation Aid for Blind People using Acoustic Signals" is accepted by IEEE MASS 2017. The first author is a UG student under my supervision
-- 2017\/07\/01, start a one-month academic visit to Professor Daqing Zhang's group in Peking University 
-- 2017\/06\/15, our paper about Wi-Fi Radar is accepted by IEEE COMMAG
+- 2018\/08, our paper "BiLock: User Authentication via Dental Occlusion Biometrics" is accepted by Ubicomp 2018.
+- 2018\/04, our Deomo paper "A Novel Finger-Assisted Touch-free Text Input System Without Training" is accpeted by Mobisys 2018. The first author is a master student under my supervision
+- 2018\/02, invited to be TPC member of Globecom 2018
+- 2017\/07, our paper "ABAid: Navigation Aid for Blind People using Acoustic Signals" is accepted by IEEE MASS 2017. The first author is a UG student under my supervision
+- 2017\/07, start a one-month academic visit to Professor Daqing Zhang's group in Peking University 
+- 2017\/06, our paper about Wi-Fi Radar is accepted by IEEE COMMAG
 - 2017\/05, invited to serve as TPC member and pulication chair of ICPADS 2017
 
 
@@ -46,6 +47,9 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 * Corresponding Author
 
 === Conference Papers
+- *BiLock: User Authentication via Dental Occlusion Biometrics*
+\n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Meng Zhao, Zimu Zhou, Jiawei Lin, Mo Li, Kaishun Wu \new
+/In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies/, vol.2, no.3, Singapore, Singapore, 2018. \[[./data/bilock.pdf Paper]\]\[[./data/bilock.txt BibTex]\]
 - *ABAid: Navigation Aid for Blind People using Acoustic Signals*
 \n Zehui Zheng, Weifeng Liu, Rukhsana Ruby, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Kaishun Wu\n
 /in Proceedings of IEEE MASS/, Florida, USA, 2017. \[[./data/ABAid.pdf Paper]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:j0Qsbwk7BMkJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWSCXi3hhvKr3C_Owxn2T7sEaIL8dead3&scisf=4&ct=citation&cd=-1&hl=zh-CN BibTex]\]
