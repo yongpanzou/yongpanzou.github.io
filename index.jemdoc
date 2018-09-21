@@ -34,7 +34,7 @@ I am currently an Assistant Professor in the [http://csse.szu.edu.cn/en/index Co
 My research interest covers /Wearable and Mobile Computing/, /Human-computer Interaction/ and /Ubiquitous computing/. My vision is to develop new technologies, algorithms, and systems that enable smart sensing, provide intelligent services, and deliver novel applications. I draw on novel sensing \& computing technologies with /embedded system design/, /machine learning models/, /signal processing algorithms/, and /mathematical methods/ to solve real-world problems.
 
 == News
-- 2018\/09, our paper "ArmIn: Explore the Feasibility of Designing a Text-entry Application Using EMG Signals" is accepted by Mobiquitous 2018. The first author is a master student under my supervision
+- 2018\/09, our paper "ArmIn: Explore the Feasibility of Designing a Text-entry Application Using EMG Signals" is accepted by Mobiquitous 2018. The first author is a master student under my supervision.
 - 2018\/08, our paper "BiLock: User Authentication via Dental Occlusion Biometrics" is accepted by Ubicomp 2018.
 - 2018\/04, our Deomo paper "A Novel Finger-Assisted Touch-free Text Input System Without Training" is accpeted by Mobisys 2018. The first author is a master student under my supervision.
 - 2018\/02, I am invited to be TPC member of Globecom 2018
@@ -49,7 +49,7 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 
 === Conference Papers
 - *ArmIn: Explore the Feasibility of Designing a Text-entry Application Using EMG Signals*
-\n Qiang Yang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Meng Zhao, Jiawei Lin, Kaishun Wu \n
+\n Qiang Yang, {{<font color=LightSlateGray><b>}}Yongpan Zou<sup>*</sup>{{</b></font>}}, Meng Zhao, Jiawei Lin, Kaishun Wu \n
 /in Proceedings of ACM Mobiquitous/, New York City, USA, 2018. \[[./data/TagFree.pdf Paper]\]\[[./data/tagFreebib.txt BibTex]\]
 - *BiLock: User Authentication via Dental Occlusion Biometrics*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Meng Zhao, Zimu Zhou, Jiawei Lin, Mo Li, Kaishun Wu \n
