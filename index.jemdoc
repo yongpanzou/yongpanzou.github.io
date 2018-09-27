@@ -50,7 +50,8 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 === Conference Papers
 - *ArmIn: Explore the Feasibility of Designing a Text-entry Application Using EMG Signals*
 \n Qiang Yang, {{<font color=LightSlateGray><b>}}Yongpan Zou*{{</b></font>}}, Meng Zhao, Jiawei Lin, Kaishun Wu \n
-/in Proceedings of ACM Mobiquitous/, New York City, USA, 2018. \[[./data/TagFree.pdf Paper]\]\[[./data/tagFreebib.txt BibTex]\]
+/in Proceedings of ACM Mobiquitous/, New York City, USA, 2018. \n
+\[[./data/TagFree.pdf {{<font color=blue><b>}}Paper{{</b></font>}}]\]\[[./data/tagFreebib.txt {{<font color=blue><b>}}BibTex{{</b></font>}}]\]
 - *BiLock: User Authentication via Dental Occlusion Biometrics*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Meng Zhao, Zimu Zhou, Jiawei Lin, Mo Li, Kaishun Wu \n
 /In Proceedings of ACM Ubicomp/, vol.2, no.3, Singapore, Singapore, 2018. \[[./data/bilock.pdf Paper]\]\[[./data/bilock.txt BibTex]\]
@@ -110,6 +111,12 @@ Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu
 #=== [https://yongpanzou.github.io/ BiLock]
 #The Indoor WiFi Radar Sense (IWRS) project is a system to detect, localize, and identify human motions and the environmental contexts using WiFi signals, such as human detection, line-of-sight condition identification, breath detection and lips reading.
 #~~~
+
+
+#== Research Funds
+#- 基于声学感知的
+
+
 
 == Professional Activities
 - TPC Member for
