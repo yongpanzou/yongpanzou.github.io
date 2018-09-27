@@ -98,18 +98,18 @@ Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu
 \n Qiang Yang, Hongrui Fu, {{<font color=LightSlateGray><b>}}Yongpan Zou*{{</b></font>}}, Kaishun Wu \n
 /in Proceedings of ACM Mobisys/, Munich, Germany, 2018. \[[./data/echotypeDemo.pdf Paper]\]\[[./data/echotypeDemobib.txt BibTex]\]
 
-== Projects
-~~~
-{}{img_left}{./data/Project-Behavicker.jpg}{photo}{150px}{100px}{}
-=== [https://yongpanzou.github.io/ Behavicker]
-The Indoor WiFi Radar Sense (IWRS) project is a system to detect, localize, and identify human motions and the environmental contexts using WiFi signals, such as human detection, line-of-sight condition identification, breath detection and lips reading.
-~~~
+#== Projects
+#~~~
+#{}{img_left}{./data/Project-Behavicker.jpg}{photo}{150px}{100px}{}
+#=== [https://yongpanzou.github.io/ Behavicker]
+#The Indoor WiFi Radar Sense (IWRS) project is a system to detect, localize, and identify human motions and the environmental contexts using WiFi signals, such as human detection, line-of-sight condition identification, breath detection and lips reading.
+#~~~
 
-~~~
-{}{img_left}{./data/Project-BiLock.jpg}{photo}{150px}{100px}{}
-=== [https://yongpanzou.github.io/ BiLock]
-The Indoor WiFi Radar Sense (IWRS) project is a system to detect, localize, and identify human motions and the environmental contexts using WiFi signals, such as human detection, line-of-sight condition identification, breath detection and lips reading.
-~~~
+#~~~
+#{}{img_left}{./data/Project-BiLock.jpg}{photo}{150px}{100px}{}
+#=== [https://yongpanzou.github.io/ BiLock]
+#The Indoor WiFi Radar Sense (IWRS) project is a system to detect, localize, and identify human motions and the environmental contexts using WiFi signals, such as human detection, line-of-sight condition identification, breath detection and lips reading.
+#~~~
 
 == Professional Activities
 - TPC Member for
