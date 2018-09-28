@@ -96,7 +96,7 @@ Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu
 - *SmartScanner: Know More in Walls with Your Smartphone!* 
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Guanhua Wang, Kaishun Wu, Lionel M. Ni \n
 /in IEEE Transactions on Mobile Computing/, Vol. 15, Issue 11, pp. 2865-2877, 2016. \n
-\[[./data/SmartScanner.pdf {{<font color=FUCHSIA><b>}}Paper{{</b></font>}}]\]\[[./data/Smartscannerbib.txt BibTex]\]
+\[[./data/SmartScanner.pdf {{<font color=FUCHSIA><b>}}Paper{{</b></font>}}]\]\[[./data/Smartscannerbib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 
 - *We Can Hear You with Wi-Fi!* {{<font color=red><b>}}(Feature Article){{</b></font>}}
 \n Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu Zhou, Kaishun Wu, Lionel M. Ni \n
@@ -107,7 +107,7 @@ Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu
 - *Demo: A Novel Finger-Assisted Touch-free Text Input System Without Training*
 \n Qiang Yang, Hongrui Fu, {{<font color=LightSlateGray><b>}}Yongpan Zou*{{</b></font>}}, Kaishun Wu \n
 /in Proceedings of ACM Mobisys/, Munich, Germany, 2018. \n
-\[[./data/echotypeDemo.pdf {{<font color=FUCHSIA><b>}}Paper{{</b></font>}}]\]\[[./data/EchoTypePoster.pdf {{<font color=blue><b>}}Poster{{</b></font>}}]\]\[[./data/TagFree.pdf {{<font color=purple><b>}}Demo{{</b></font>}}]\]\[[./data/echotypeDemobib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
+\[[./data/echotypeDemo.pdf {{<font color=FUCHSIA><b>}}Paper{{</b></font>}}]\]\[[./data/EchoTypePoster.pdf {{<font color=blue><b>}}Poster{{</b></font>}}]\]\[[https://youtu.be/QKSdGWUXD8Y {{<font color=purple><b>}}Demo{{</b></font>}}]\]\[[./data/echotypeDemobib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 
 #== Projects
 #~~~
