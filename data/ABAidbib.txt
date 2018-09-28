@@ -1,0 +1,8 @@
+@inproceedings{zheng2017abaid,
+  title={ABAid: Navigation Aid for Blind People Using Acoustic Signal},
+  author={Zheng, Zehui and Liu, Weifeng and Ruby, Rukhsana and Zou, Yongpan and Wu, Kaishun},
+  booktitle={Proceedings of the IEEE international conference on Mobile Ad Hoc and Sensor Systems},
+  pages={333--337},
+  year={2017},
+  organization={IEEE}
+}
