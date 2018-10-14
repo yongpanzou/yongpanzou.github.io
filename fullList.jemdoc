@@ -11,40 +11,9 @@
 		<div class="col-xs-2 col col-sm-2 col-md-10 col-lg-10">	
 		}}
 ~~~
-{}{img_left}{./data/original.jpg}{photo}{125px}{171px}{}
-= {{<span style="font-size:xx-large;font-family:Times New Roman;color:black;"><b>}}Yongpan Zou{{</b></span>}} {{<span style="font-size:xx-large;font-family:STXingkai;color:black;"><b>}}(邹永攀){{</b></span>}}
-{{<font color=black><b>}}Assistant Professor{{</b></font>}} \n
-[http://csse.szu.edu.cn/en/index College of Computer Science and Software Engineering] \n
-[http://www.szu.edu.cn/2014/en/ Shenzhen University] \n
-#Assistant Director, Engineering Research Center of Wireless Big Data and Future Network \n 
-*Addr.:*Room 943\/720, Building of Computer Science, South Distrcit, Shenzhen University \n
-*Email:* /yongpan\@szu.edu.cn/; *Tel.:* /075586934659/\n
-[https://scholar.google.com.hk/ Google Scholar]\n
-~~~
 
 
-
-== Biography
-I am currently an Assistant Professor in the [http://csse.szu.edu.cn/en/index College of Computer Science and Software Engineering] of [http://www.szu.edu.cn/2014/en/ Shenzhen University], since September 2017. I obtained my Ph.D in February 2017 in the [https://www.cse.ust.hk/ CSE Department] of [http://www.ust.hk/ HKUST], under the supervision of [http://www.cse.ust.hk/~ni/ Professor Lionel M. Ni]. Prior to this, I received my B.E in [http://clet.xjtu.edu.cn/index.htm School of Chemical Engineering and Technology], [http://en.xjtu.edu.cn/ Xi'an Jiaotong University] in July 2013.
-
-
-
-== Research Interests
-#My research interest covers {{<font color=black><b>}}Wearable and Mobile Computing{{</b></font>}}, {{<font color=black><b>}}Human-computer Interaction{{</b></font>}} and {{<font color=black><b>}}Ubiquitous computing{{</b></font>}}. My vision is to develop new technologies, algorithms, and systems that enable smart sensing, provide intelligent services, and deliver novel applications. I draw on novel sensing technologies with {{<font color=black><b>}}machine learning{{</b></font>}} models, {{<font color=black><b>}}signal processing{{</b></font>}} algorithms, and {{<font color=black><b>}}mathematical methods{{</b></font>}} to solve real-world problems.
-My research interest covers /Wearable and Mobile Computing/, /Human-computer Interaction/ and /Ubiquitous computing/. My vision is to develop new technologies, algorithms, and systems that enable smart sensing, provide intelligent services, and deliver novel applications. I draw on novel sensing \& computing technologies with /embedded system design/, /machine learning models/, /signal processing algorithms/, and /mathematical methods/ to solve real-world problems.
-
-== Academic News
-- 2018\/09, our paper "ArmIn: Explore the Feasibility of Designing a Text-entry Application Using EMG Signals" is accepted by Mobiquitous 2018. The first author is a master student under my supervision.
-- 2018\/08, our paper "BiLock: User Authentication via Dental Occlusion Biometrics" is accepted by Ubicomp 2018.
-- 2018\/04, our Deomo paper "A Novel Finger-Assisted Touch-free Text Input System Without Training" is accpeted by Mobisys 2018. The first author is a master student under my supervision.
-- 2018\/02, I am invited to be TPC member of Globecom 2018
-#- 2017\/07, our paper "ABAid: Navigation Aid for Blind People using Acoustic Signals" is accepted by IEEE MASS 2017. The first author is a UG student under my supervision.
-#- 2017\/07, I start a one-month academic visit to Professor Daqing Zhang's group in Peking University 
-#- 2017\/06, our paper about Wi-Fi Radar is accepted by IEEE COMMAG.
-#- 2017\/05, I am invited to serve as TPC member and pulication chair of ICPADS 2017.
-
-
-== Selected Publications \[[https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=RO4w5pAAAAAJ Full List]\]
+== Full Publications
 * indicates Corresponding Author
 
 === Conference Papers
@@ -109,51 +78,19 @@ Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu
 /in Proceedings of ACM Mobisys/, Munich, Germany, 2018. \n
 \[[./data/echotypeDemo.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/EchoTypePoster.pdf {{<font color=navy><b>}}Poster{{</b></font>}}]\]\[[https://youtu.be/9_OmofZM1Ic {{<font color=purple><b>}}Demo{{</b></font>}}]\]\[[./data/echotypeDemobib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 
-#== Projects
-#~~~
-#{}{img_left}{./data/Project-Behavicker.jpg}{photo}{150px}{100px}{}
-#=== [https://yongpanzou.github.io/ Behavicker]
-#The Indoor WiFi Radar Sense (IWRS) project is a system to detect, localize, and identify human motions and the environmental contexts using WiFi signals, such as human detection, line-of-sight condition identification, breath detection and lips reading.
-#~~~
-
-#~~~
-#{}{img_left}{./data/Project-BiLock.jpg}{photo}{150px}{100px}{}
-#=== [https://yongpanzou.github.io/ BiLock]
-#The Indoor WiFi Radar Sense (IWRS) project is a system to detect, localize, and identify human motions and the environmental contexts using WiFi signals, such as human detection, line-of-sight condition identification, breath detection and lips reading.
-#~~~
-
-
-#== Research Funds
-#- 基于声学感知的
 
 
 
-== Professional Activities
-- TPC Member for
--- IEEE Globecom 2017, IEEE ICPADS 2017, VTC 2018-Spring, IEEE Globecom 2018
-- Reviewer for
--- ICPADS 2016, Ubicomp 2016, Globecom 2017, TMC, COMMAG, ToN
-- Chairing service
--- Publication chair for ICPADS 2017 and ICPADS 2018
-
-#== Teaching Experience
-#- Wireless Sensor Network, Fall semester
-#- Computer Network, Spring semester
 
 
-== Group Members
-- PG Students
--- Qiang Yang, Meng Zhao, since 2016
--- Yetong Han, Jiawei Lin, since 2017
--- Dan Wang, Baojie Yuan, sicne 2018
-- UG Students
--- Hongrui Fu, Qianru Liao, Yuming Yang, Shicong Hong, Ziyin Wang, Yuhang Li, since 2017
-- Alumni
--- Weifeng Liu (/now in CMB/), Shufeng Ye (/now in LONGTU GAME/), Changsheng Zhou (/now in CITIC Bank/), Junjun Bao (/now in CMB/), Xuejin Zhou (/now in JIGUANG/), since 2015
--- Jingchuan Xu (/now in Tencent/), Zehui Zheng (/now in University of Victoria with full scholarship/), Jinyong Wu (/now in Baidu/), since 2015
 
-== Selected Teaching Achievements
-- \[[./data/MCM.pdf MCM Award]\], \[[./data/huazi.jpg 华资杯]\], \[[./data/IoTCompetition.jpg 物联网大赛]\], \[[./data/Excellent.jpg 物联网大赛]\], \[[./data/fyprojectTeacher.jpg 百篇优毕]\], \[[./data/fyprojectStu.jpg 百篇优毕]\]
+
+
+
+
+
+
+
 
 
 
