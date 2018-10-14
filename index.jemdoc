@@ -30,8 +30,7 @@ I am currently an Assistant Professor in the [http://csse.szu.edu.cn/en/index Co
 
 
 == Research Interests
-#My research interest covers {{<font color=black><b>}}Wearable and Mobile Computing{{</b></font>}}, {{<font color=black><b>}}Human-computer Interaction{{</b></font>}} and {{<font color=black><b>}}Ubiquitous computing{{</b></font>}}. My vision is to develop new technologies, algorithms, and systems that enable smart sensing, provide intelligent services, and deliver novel applications. I draw on novel sensing technologies with {{<font color=black><b>}}machine learning{{</b></font>}} models, {{<font color=black><b>}}signal processing{{</b></font>}} algorithms, and {{<font color=black><b>}}mathematical methods{{</b></font>}} to solve real-world problems.
-My research interest covers /Wearable and Mobile Computing/, /Human-computer Interaction/ and /Ubiquitous computing/. My vision is to develop new technologies, algorithms, and systems that enable smart sensing, provide intelligent services, and deliver novel applications. I draw on novel sensing \& computing technologies with /embedded system design/, /machine learning models/, /signal processing algorithms/, and /mathematical methods/ to solve real-world problems.
+My research interest covers /Wearable and Mobile Computing/, /Human-computer Interaction/ and /Ubiquitous computing/. My vision is to develop new technologies, algorithms, and systems that enable smart sensing, provide intelligent services, and deliver novel applications. I draw on novel sensing \& computing technologies with /embedded system design/, /machine learning models/, /signal processing algorithms/, and /mathematical methods/ to solve real-world problems. I am now leading /Intelligent Perception and Mobile Computing/ Group.
 
 == Academic News
 - 2018\/09, our paper "ArmIn: Explore the Feasibility of Designing a Text-entry Application Using EMG Signals" is accepted by Mobiquitous 2018. The first author is a master student under my supervision.
@@ -48,61 +47,76 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 * indicates Corresponding Author
 
 === Conference Papers
-- *ArmIn: Explore the Feasibility of Designing a Text-entry Application Using EMG Signals*
+
+~~~
+{}{img_left}{./data/ArmIn.jpg}{photo}{150px}{100px}{}
+*ArmIn: Explore the Feasibility of Designing a Text-entry Application Using EMG Signals*
 \n Qiang Yang, {{<font color=LightSlateGray><b>}}Yongpan Zou*{{</b></font>}}, Meng Zhao, Jiawei Lin, Kaishun Wu \n
 /in Proceedings of ACM Mobiquitous/, New York City, USA, 2018. \n
 \[[./data/ArmInCamera.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/TagFree.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/TagFree.pdf {{<font color=purple><b>}}Demo{{</b></font>}}]\]\[[./data/tagFreebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
+~~~
 
-- *BiLock: User Authentication via Dental Occlusion Biometrics*
+~~~
+{}{img_left}{./data/BiLock.jpg}{photo}{150px}{100px}{}
+*BiLock: User Authentication via Dental Occlusion Biometrics*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Meng Zhao, Zimu Zhou, Jiawei Lin, Mo Li, Kaishun Wu \n
 /In Proceedings of ACM Ubicomp/, vol.2, no.3, Singapore, Singapore, 2018. \n
 \[[./data/BiLockCamera.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/BiLockSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[https://youtu.be/IYdNcvU_uDs {{<font color=purple><b>}}Demo{{</b></font>}}]\]\[[./data/bilock.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
+~~~
 
-- *TagFree: Passive Object Differentiation via Physical Layer Radiometric Signatures*
+~~~
+{}{img_left}{./data/TagFree.jpg}{photo}{150px}{100px}{}
+*TagFree: Passive Object Differentiation via Physical Layer Radiometric Signatures*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Yuxi Wang, Shufeng Ye, Kaishun Wu, Lionel M. Ni \n
 /in Proceedings of IEEE Percom/, Hawaii, USA, 2017. \n
 \[[./data/TagFree.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/TagFreeSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/tagFreebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
+~~~
 
-- *We Can Hear You with WiFi!* \n
+~~~
+{}{img_left}{./data/WiHear.jpg}{photo}{150px}{100px}{}
+*We Can Hear You with WiFi!* \n
 Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu Zhou, Kaishun Wu, Lionel M. Ni \n
 /in Proceedings of ACM Mobicom/, Hawaii, USA, 2014. \n
 \[[./data/WiHear.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/WiHearSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/wihearbib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
-
-
-{}{img_left}{./data/Project-BiLock.jpg}{photo}{150px}{100px}{} *We Can Hear You with WiFi!* \n
-Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu Zhou, Kaishun Wu, Lionel M. Ni \n
-/in Proceedings of ACM Mobicom/, Hawaii, USA, 2014. \n
-\[[./data/WiHear.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/WiHearSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/wihearbib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
-
-
+~~~
 
 
 === Journal Papers
-- *Wi-Fi Radar: Recognizing Human Behavior with Commodity Wi-Fi*
+~~~
+{}{img_left}{./data/WiFiRadar.jpg}{photo}{150px}{100px}{}
+*Wi-Fi Radar: Recognizing Human Behavior with Commodity Wi-Fi*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Weifeng Liu, Kaishun Wu, Lionel M. Ni \n
 /in IEEE Communications Magazine/, Volume16, Issue 2, pp. 381-393, 2017. \n
 \[[./data/wifiRadar.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:kPtDIPmyNoUJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWSFzfTeSSQ0VSjdWB1BBjVsD9mVBa6S1&scisf=4&ct=citation&cd=-1&hl=zh-CN {{<font color=green><b>}}BibTex{{</b></font>}}]\]
+~~~
 
-- *GRfid: A Device-free Gesture Recognition System Using COTS RFID Device*
+~~~
+{}{img_left}{./data/GRfid.jpg}{photo}{150px}{100px}{}
+*GRfid: A Device-free Gesture Recognition System Using COTS RFID Device*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Jiang Xiao, Jinsong Han, Kaishun Wu, Yun Li, Lionel M. Ni \n
 /in IEEE Transactions on Mobile Computing/, Volume16, Issue 2, pp. 381-393, 2016. \n
 \[[./data/GRfid.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/Grfidbib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
+~~~
 
-- *SmartScanner: Know More in Walls with Your Smartphone!* 
+
+~~~
+{}{img_left}{./data/SmartScanner.jpg}{photo}{150px}{100px}{}
+*SmartScanner: Know More in Walls with Your Smartphone!* 
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Guanhua Wang, Kaishun Wu, Lionel M. Ni \n
 /in IEEE Transactions on Mobile Computing/, Vol. 15, Issue 11, pp. 2865-2877, 2016. \n
 \[[./data/SmartScanner.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/Smartscannerbib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
+~~~
 
-- *We Can Hear You with Wi-Fi!* {{<font color=red><b>}}(Feature Article){{</b></font>}}
-\n Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu Zhou, Kaishun Wu, Lionel M. Ni \n
-/in IEEE Transactions on Mobile Computing/, Vol. 15, Issue 11, pp. 2907-2920, 2016. \n
-\[[./data/wihear_tmc.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/wihearbib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
+
 
 === Workshop\/Poster\/Demo
-- *Demo: A Novel Finger-Assisted Touch-free Text Input System Without Training*
+~~~
+{}{img_left}{./data/EchoType.jpg}{photo}{150px}{100px}{}
+*Demo: A Novel Finger-Assisted Touch-free Text Input System Without Training*
 \n Qiang Yang, Hongrui Fu, {{<font color=LightSlateGray><b>}}Yongpan Zou*{{</b></font>}}, Kaishun Wu \n
 /in Proceedings of ACM Mobisys/, Munich, Germany, 2018. \n
 \[[./data/echotypeDemo.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/EchoTypePoster.pdf {{<font color=navy><b>}}Poster{{</b></font>}}]\]\[[https://youtu.be/9_OmofZM1Ic {{<font color=purple><b>}}Demo{{</b></font>}}]\]\[[./data/echotypeDemobib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
+~~~
 
 #== Projects
 #~~~
