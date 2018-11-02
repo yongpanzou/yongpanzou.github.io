@@ -1,5 +1,6 @@
 <a href=" ">paper</ a> £¨modified in xlm file£©
 
+python2 jemdoc.py fullList.jemdoc
 python2 jemdoc.py index.jemdoc
 git status
 git add *
