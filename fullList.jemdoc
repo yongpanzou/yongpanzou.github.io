@@ -15,6 +15,12 @@
 * indicates Corresponding Author
 
 === Conference Papers
+
+- *AcouDigits: Enabling Users to Input Digits in the Air*
+\n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Qiang Yang, Yetong Han, Dan Wang, Jiannong Cao, Kaishun Wu \n
+/in Proceedings of IEEE Percom/, Kyoto, Japan, 2019. \n
+\[[./data/ArmInCamera.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/ArmInSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/tagFreebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
+
 - *ArmIn: Explore the Feasibility of Designing a Text-entry Application Using EMG Signals*
 \n Qiang Yang, {{<font color=LightSlateGray><b>}}Yongpan Zou*{{</b></font>}}, Meng Zhao, Jiawei Lin, Kaishun Wu \n
 /in Proceedings of ACM Mobiquitous/, New York City, USA, 2018. \n
