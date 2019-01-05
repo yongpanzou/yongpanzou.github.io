@@ -34,10 +34,11 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 
 == Academic News
 
+- 2019\/01, our paper "AcouDigits: Enabling Users to Input Digits in the Air" is accepted by IEEE Percom 2019.
 - 2018\/09，I am invited to serve as a TPC member of [http://www.smart-world.org/2019/uic/index.php IEEE UIC 2019]. Welcome to submit papers!
-- 2018\/09, our paper "ArmIn: Explore the Feasibility of Designing a Text-entry Application Using EMG Signals" is accepted by Mobiquitous 2018. The first author is a master student under my supervision.
-- 2018\/08, our paper "BiLock: User Authentication via Dental Occlusion Biometrics" is accepted by Ubicomp 2018.
-- 2018\/04, our Deomo paper "A Novel Finger-Assisted Touch-free Text Input System Without Training" is accpeted by Mobisys 2018. The first author is a master student under my supervision.
+- 2018\/09, our paper "ArmIn: Explore the Feasibility of Designing a Text-entry Application Using EMG Signals" is accepted by EAI Mobiquitous 2018. The first author is a master student under my supervision.
+- 2018\/08, our paper "BiLock: User Authentication via Dental Occlusion Biometrics" is accepted by ACM Ubicomp 2018.
+- 2018\/04, our Deomo paper "A Novel Finger-Assisted Touch-free Text Input System Without Training" is accpeted by ACM Mobisys 2018. The first author is a master student under my supervision.
 - 2018\/02, I am invited to be TPC member of Globecom 2018
 #- 2017\/07, our paper "ABAid: Navigation Aid for Blind People using Acoustic Signals" is accepted by IEEE MASS 2017. The first author is a UG student under my supervision.
 #- 2017\/07, I start a one-month academic visit to Professor Daqing Zhang's group in Peking University 
@@ -51,10 +52,18 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 === Conference Papers
 
 ~~~
+{}{img_left}{./data/EchoType.jpg}{photo}{150px}{100px}{}
+*AcouDigits: Enabling Users to Input Digits in the Air*
+\n {{<font color=LightSlateGray><b>}}Yongpan Zou*{{</b></font>}}, Qiang Yang, Yetong Han, Dan Wang, Jiannong Cao, Kaishun Wu \n
+/in Proceedings of IEEE Percom/, Kyoto, Japan, 2019. \n
+\[[./data/ArmInCamera.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/ArmInSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/tagFreebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
+~~~
+
+~~~
 {}{img_left}{./data/ArmIn.jpg}{photo}{150px}{100px}{}
 *ArmIn: Explore the Feasibility of Designing a Text-entry Application Using EMG Signals*
 \n Qiang Yang, {{<font color=LightSlateGray><b>}}Yongpan Zou*{{</b></font>}}, Meng Zhao, Jiawei Lin, Kaishun Wu \n
-/in Proceedings of ACM Mobiquitous/, New York City, USA, 2018. \n
+/in Proceedings of EAI Mobiquitous/, New York City, USA, 2018. \n
 \[[./data/ArmInCamera.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/ArmInSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/tagFreebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 ~~~
 
