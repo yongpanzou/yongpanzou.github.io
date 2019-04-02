@@ -34,7 +34,7 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 
 == Academic News
 
-- 2019\/04, our article "面向新型智能设备的交互技术" is to appear in the volume 15, issue 4 of Communications of the CCF (CCCF). This chinese article reviews the novel HCI methods for emerging smart devices.
+- 2019\/04, our article "面向新型智能设备的交互技术" is to appear in the volume 15, issue 4 of Communications of the CCF (CCCF). This Chinese article briefly reviews the novel HCI methods for emerging smart devices.
 - 2019\/03, our paper "EchoWrite: An Acoustic-based Finger Input System Without Training" is accepted by IEEE ICDCS 2019.
 - 2019\/01, our paper "AcouDigits: Enabling Users to Input Digits in the Air" is accepted by IEEE Percom 2019.
 - 2018\/09，I am invited to serve as a TPC member of [http://www.smart-world.org/2019/uic/index.php IEEE UIC 2019]. Welcome to submit papers!
@@ -144,22 +144,8 @@ Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu
 *面向新型智能设备的交互技术*
 \n Kaishun Wu, {{<font color=LightSlateGray><b>}}Yongpan Zou*{{</b></font>}} \n
 /in Communications of the CCF (CCCF)/, volume 15, issue 4, 2019. \n
-\[[./data/echotypeDemo.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/echotypeDemobib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
+\[[./data/cccf.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/echotypeDemobib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 ~~~
-
-
-#== Projects
-#~~~
-#{}{img_left}{./data/Project-Behavicker.jpg}{photo}{150px}{100px}{}
-#=== [https://yongpanzou.github.io/ Behavicker]
-#The Indoor WiFi Radar Sense (IWRS) project is a system to detect, localize, and identify human motions and the environmental contexts using WiFi signals, such as human detection, line-of-sight condition identification, breath detection and lips reading.
-#~~~
-
-#~~~
-#{}{img_left}{./data/Project-BiLock.jpg}{photo}{150px}{100px}{}
-#=== [https://yongpanzou.github.io/ BiLock]
-#The Indoor WiFi Radar Sense (IWRS) project is a system to detect, localize, and identify human motions and the environmental contexts using WiFi signals, such as human detection, line-of-sight condition identification, breath detection and lips reading.
-#~~~
 
 
 #== Research Funds
