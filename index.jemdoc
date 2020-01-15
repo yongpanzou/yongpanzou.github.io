@@ -65,7 +65,7 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 
 ~~~
 {}{img_left}{./data/EchoType.jpg}{photo}{150px}{100px}{}
-*AcouDigits: Enabling Users to Input Digits in the Air*
+*\[[PerCom'19]\] AcouDigits: Enabling Users to Input Digits in the Air*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Qiang Yang, Yetong Han, Dan Wang, Jiannong Cao, Kaishun Wu \n
 /in Proceedings of IEEE Percom/, Kyoto, Japan, 2019. (CCF Rank B, Acceptance rate: 16.6\%) \n
 \[[./data/AcouDigits.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/AcouDigitsSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/tagFreebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
@@ -73,7 +73,7 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 
 ~~~
 {}{img_left}{./data/ArmIn.jpg}{photo}{150px}{100px}{}
-*ArmIn: Explore the Feasibility of Designing a Text-entry Application Using EMG Signals*
+*\[[Mobiquitous'18]\] ArmIn: Explore the Feasibility of Designing a Text-entry Application Using EMG Signals*
 \n Qiang Yang, {{<font color=LightSlateGray><b>}}Yongpan Zou*{{</b></font>}}, Meng Zhao, Jiawei Lin, Kaishun Wu \n
 /in Proceedings of EAI Mobiquitous/, New York City, USA, 2018. (CCF Rank C) \n
 \[[./data/ArmInCamera.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/ArmInSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/tagFreebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
@@ -81,7 +81,7 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 
 ~~~
 {}{img_left}{./data/BiLock.jpg}{photo}{150px}{100px}{}
-*BiLock: User Authentication via Dental Occlusion Biometrics*
+*\[[Ubicomp'18]\] BiLock: User Authentication via Dental Occlusion Biometrics*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Meng Zhao, Zimu Zhou, Jiawei Lin, Mo Li, Kaishun Wu \n
 /In Proceedings of ACM Ubicomp/, Singapore, 2018. (CCF Rank A, Acceptance rate: \~20\%)  \n
 \[[./data/BiLockCamera.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/BiLockSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[https://youtu.be/IYdNcvU_uDs {{<font color=purple><b>}}Demo{{</b></font>}}]\]\[[./data/bilock.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
@@ -89,7 +89,7 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 
 ~~~
 {}{img_left}{./data/TagFree.jpg}{photo}{150px}{100px}{}
-*TagFree: Passive Object Differentiation via Physical Layer Radiometric Signatures*
+*\[[PerCom'17]\] TagFree: Passive Object Differentiation via Physical Layer Radiometric Signatures*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Yuxi Wang, Shufeng Ye, Kaishun Wu, Lionel M. Ni \n
 /in Proceedings of IEEE Percom/, Hawaii, USA, 2017. (CCF Rank B, Acceptance rate: 16.5\%) \n
 \[[./data/TagFree.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/TagFreeSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/tagFreebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
@@ -97,7 +97,7 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 
 ~~~
 {}{img_left}{./data/WiHear.jpg}{photo}{150px}{100px}{}
-*We Can Hear You with WiFi!* \n
+*\[[Mobicom'14]\] We Can Hear You with WiFi!* \n
 Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu Zhou, Kaishun Wu, Lionel M. Ni \n
 /in Proceedings of ACM Mobicom/, Hawaii, USA, 2014. (CCF Rank A, Acceptance rate: 16.4\%)  \n
 \[[./data/WiHear.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/WiHearSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/wihearbib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
@@ -107,7 +107,7 @@ Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu
 === Journal Papers
 ~~~
 {}{img_left}{./data/WiFiRadar.jpg}{photo}{150px}{100px}{}
-*Wi-Fi Radar: Recognizing Human Behavior with Commodity Wi-Fi*
+*\[[IEEE COMMAG]\] Wi-Fi Radar: Recognizing Human Behavior with Commodity Wi-Fi*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Weifeng Liu, Kaishun Wu, Lionel M. Ni \n
 /in IEEE Communications Magazine/, Volume16, Issue 2, pp. 381-393, 2017. \n
 \[[./data/wifiRadar.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:kPtDIPmyNoUJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWSFzfTeSSQ0VSjdWB1BBjVsD9mVBa6S1&scisf=4&ct=citation&cd=-1&hl=zh-CN {{<font color=green><b>}}BibTex{{</b></font>}}]\]
@@ -115,7 +115,7 @@ Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu
 
 ~~~
 {}{img_left}{./data/GRfid.jpg}{photo}{150px}{100px}{}
-*GRfid: A Device-free Gesture Recognition System Using COTS RFID Device*
+*\[[IEEE TMC]\] GRfid: A Device-free Gesture Recognition System Using COTS RFID Device*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Jiang Xiao, Jinsong Han, Kaishun Wu, Yun Li, Lionel M. Ni \n
 /in IEEE Transactions on Mobile Computing/, Volume16, Issue 2, pp. 381-393, 2016. \n
 \[[./data/GRfid.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/Grfidbib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
@@ -124,7 +124,7 @@ Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu
 
 ~~~
 {}{img_left}{./data/SmartScanner.jpg}{photo}{150px}{100px}{}
-*SmartScanner: Know More in Walls with Your Smartphone!* 
+*\[[IEEE TMC]\] SmartScanner: Know More in Walls with Your Smartphone!* 
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Guanhua Wang, Kaishun Wu, Lionel M. Ni \n
 /in IEEE Transactions on Mobile Computing/, Vol. 15, Issue 11, pp. 2865-2877, 2016. \n
 \[[./data/SmartScanner.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/Smartscannerbib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
@@ -135,7 +135,7 @@ Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu
 === Workshop\/Poster\/Demo\/Others
 ~~~
 {}{img_left}{./data/EchoType.jpg}{photo}{150px}{100px}{}
-*Demo: A Novel Finger-Assisted Touch-free Text Input System Without Training*
+*\[[MobiSys'18]\] Demo: A Novel Finger-Assisted Touch-free Text Input System Without Training*
 \n Qiang Yang, Hongrui Fu, {{<font color=LightSlateGray><b>}}Yongpan Zou*{{</b></font>}}, Kaishun Wu \n
 /in Proceedings of ACM Mobisys/, Munich, Germany, 2018. \n
 \[[./data/echotypeDemo.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/EchoTypePoster.pdf {{<font color=navy><b>}}Poster{{</b></font>}}]\]\[[https://youtu.be/9_OmofZM1Ic {{<font color=purple><b>}}Demo{{</b></font>}}]\]\[[./data/echotypeDemobib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
@@ -143,7 +143,7 @@ Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu
 
 ~~~
 {}{img_left}{./data/cccf.png}{photo}{150px}{100px}{}
-*面向新型智能设备的交互技术*
+*\[[CCCF]\] 面向新型智能设备的交互技术*
 \n Kaishun Wu, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}} \n
 /in Communications of the CCF (CCCF)/, volume 15, issue 4, 2019. \n
 \[[./data/cccf.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/echotypeDemobib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
