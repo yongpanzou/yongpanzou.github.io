@@ -80,13 +80,13 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 \[[./data/AcouDigits.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/AcouDigitsSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/tagFreebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 ~~~
 
-~~~
-{}{img_left}{./data/ArmIn.jpg}{photo}{150px}{100px}{}
-*\[Mobiquitous'18\] ArmIn: Explore the Feasibility of Designing a Text-entry Application Using EMG Signals*
-\n Qiang Yang, {{<font color=LightSlateGray><b>}}Yongpan Zou*{{</b></font>}}, Meng Zhao, Jiawei Lin, Kaishun Wu \n
-/in Proceedings of EAI Mobiquitous/, New York City, USA, 2018. (CCF Rank C) \n
-\[[./data/ArmInCamera.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/ArmInSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/tagFreebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
-~~~
+#~~~
+#{}{img_left}{./data/ArmIn.jpg}{photo}{150px}{100px}{}
+#*\[Mobiquitous'18\] ArmIn: Explore the Feasibility of Designing a Text-entry Application Using EMG Signals*
+#\n Qiang Yang, {{<font color=LightSlateGray><b>}}Yongpan Zou*{{</b></font>}}, Meng Zhao, Jiawei Lin, Kaishun Wu \n
+#/in Proceedings of EAI Mobiquitous/, New York City, USA, 2018. (CCF Rank C) \n
+#\[[./data/ArmInCamera.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/ArmInSlides.pdf {{<font #color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/tagFreebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
+#~~~
 
 ~~~
 {}{img_left}{./data/BiLock.jpg}{photo}{150px}{100px}{}
