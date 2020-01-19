@@ -16,6 +16,11 @@
 
 === Conference Papers
 
+- *\[PerCom'20\] SilentSign: Touch-free Handwritten Signature Verification through Acoustic Sensing*
+\n Mengqi Chen, Jiawei Lin, {{<font color=LightSlateGray><b>}}Yongpan Zou*{{</b></font>}}, Rukhsana Ruby, Kaishun Wu \n
+/in Proceedings of IEEE PerCom/, Austin, Texas, USA, 2020. (CCF Rank B, Acceptance rate: \~16\%)  \n
+\[[./data/EchoWriteCamera.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/EchoWriteSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/tagFreebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
+
 - *\[ICDCS'19\] EchoWrite: An Acoustic-based Finger Input System Without Training*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Qiang Yang, Rukhsana Ruby, Yetong Han, Mo Li, Kaishun Wu \n
 /in Proceedings of IEEE ICDCS/, Dallas, Texas, USA, 2019. (CCF Rank B, Acceptance rate: 19.6\%)  \n
