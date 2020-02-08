@@ -34,6 +34,7 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 
 == Academic News
 
+- 2020\/02, our paper "EchoWrite: An Acoustic-based Finger Input System Without Training" (extension of the ICDCS paper) has been accepted by IEEE TMC.
 - 2020\/01, Our paper "SilentSign: Touch-free Handwritten Signature Verification through Acoustic Sensing" has been accepted by PerCom 2020 with an acceptance rate of \~16%.
 - 2019\/05, I serve as the program vice chair of [http://hhme.ccf.org.cn/ZGTZ.html PCC 2019 (第十五届全国普适计算学术会议)]. Welcome to submit papers!
 - 2019\/04, I am invited to be publication co-chair of [http://www.icpads2019.cn/index.html ICPADS 2019]. Welcome to submit papers!
@@ -114,6 +115,15 @@ Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu
 
 
 === Journal Papers
+
+~~~
+{}{img_left}{./data/EchoWrite.jpg}{photo}{150px}{100px}{}
+*\[TMC\] EchoWrite: An Acoustic-based Finger Input System Without Training*
+\n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Qiang Yang, Baojie Yuan, Rukhsana Ruby, Mo Li, Kaishun Wu  \n
+/in IEEE Transactions on Mobile Computing/, Volume XX, Issue XX, pp. yy-yy, 2020. \n
+\[[./data/wifiRadar.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:kPtDIPmyNoUJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWSFzfTeSSQ0VSjdWB1BBjVsD9mVBa6S1&scisf=4&ct=citation&cd=-1&hl=zh-CN {{<font color=green><b>}}BibTex{{</b></font>}}]\]
+~~~
+
 ~~~
 {}{img_left}{./data/WiFiRadar.jpg}{photo}{150px}{100px}{}
 *\[COMMAG\] Wi-Fi Radar: Recognizing Human Behavior with Commodity Wi-Fi*
