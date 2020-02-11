@@ -25,15 +25,16 @@
 
 {{<p align="center" style="margin-top: 30px; border-top: 3px double; border-bottom: 3px double; padding: 6px;">
 	<strong>
-		<a href="#biography">[Biography]</a>
-		<a href="#research">[Research]</a>
-		<a href="#news">[News]</a>
-		<a href="#publications">[Publications]</a>
-		<a href="#services">[Services]</a>
-		<a href="#group">[Group]</a>
-		<a href="#teaching">[Teaching]</a>
+		<a href="\#biography">[Biography]</a>
+		<a href="\#research">[Research]</a>
+		<a href="\#news">[News]</a>
+		<a href="\#publications">[Publications]</a>
+		<a href="\#services">[Services]</a>
+		<a href="\#group">[Group]</a>
+		<a href="\#teaching">[Teaching]</a>
 	</strong>
 </p>}}
+
 
 {{<a id="biography"></a>}}
 == Biography
