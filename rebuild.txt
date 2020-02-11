@@ -1,0 +1,13 @@
+添加导航栏
+在 index.html 的 <p><a id="biography"></a></p> 代码前面添加以下代码（可以用 Ctrl+F 查找代码，在第34行左右）
+	<p align="center" style="margin-top: 30px; border-top: 3px double; border-bottom: 3px double; padding: 6px;">
+		<strong>
+			<a href="#biography">[Biography]</a>
+			<a href="#research">[Research]</a>
+			<a href="#news">[News]</a>
+			<a href="#publications">[Publications]</a>
+			<a href="#services">[Services]</a>
+			<a href="#group">[Group]</a>
+			<a href="#teaching">[Teaching]</a>
+		</strong>
+	</p>
