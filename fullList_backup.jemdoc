@@ -4,11 +4,11 @@
 # jemdoc: addjs{./js/bootstrap.min.js}
 # jemdoc: title{YONGPAN's Homepage}
 {{<div class="container"><div class="row">
-<div class="col-xs-1 col col-sm-1 col-md-1 col-lg-1"></div>
-<div class="col-xs-10 col col-sm-10 col-md-10 col-lg-10" id="contentall">
+<div class="col-xs-2 col col-sm-2 col-md-1 col-lg-1"></div>
+<div class="col-xs-8 col col-sm-8 col-md-10 col-lg-10" id="contentall">
 	<div class="row">
-		<div class="col-xs-1 col col-sm-1 col-md-1 col-lg-1"></div>
-		<div class="col-xs-10 col col-sm-10 col-md-10 col-lg-10">	
+		<div class="col-xs-2 col col-sm-2 col-md-1 col-lg-1"></div>
+		<div class="col-xs-2 col col-sm-2 col-md-10 col-lg-10">	
 		}}
 
 == Full Publications
@@ -74,12 +74,12 @@ Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu
 
 - *\[COMMAG\] Wi-Fi Radar: Recognizing Human Behavior with Commodity Wi-Fi*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Weifeng Liu, Kaishun Wu, Lionel M. Ni \n
-/in IEEE Communications Magazine/, Volume16, Issue 2, pp. 381-393, 2017. \n
+/in IEEE Communications Magazine/, Volume 55, Issue 10, pp. 105-111, 2017. \n
 \[[./data/wifiRadar.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:kPtDIPmyNoUJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWSFzfTeSSQ0VSjdWB1BBjVsD9mVBa6S1&scisf=4&ct=citation&cd=-1&hl=zh-CN {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 
 - *\[TMC\] GRfid: A Device-free Gesture Recognition System Using COTS RFID Device*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Jiang Xiao, Jinsong Han, Kaishun Wu, Yun Li, Lionel M. Ni \n
-/in IEEE Transactions on Mobile Computing/, Volume16, Issue 2, pp. 381-393, 2016. \n
+/in IEEE Transactions on Mobile Computing/, Volume 16, Issue 2, pp. 381-393, 2016. \n
 \[[./data/GRfid.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/Grfidbib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 
 - *\[TMC\] SmartScanner: Know More in Walls with Your Smartphone!* 
