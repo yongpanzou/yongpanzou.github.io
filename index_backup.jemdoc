@@ -4,11 +4,11 @@
 # jemdoc: addjs{./js/bootstrap.min.js}
 # jemdoc: title{YONGPAN's Homepage}
 {{<div class="container"><div class="row">
-<div class="col-xs-2 col col-sm-2 col-md-1 col-lg-1"></div>
-<div class="col-xs-8 col col-sm-8 col-md-10 col-lg-10" id="contentall">
+<div class="col-xs-1 col col-sm-1 col-md-1 col-lg-1"></div>
+<div class="col-xs-10 col col-sm-10 col-md-10 col-lg-10" id="contentall">
 	<div class="row">
-		<div class="col-xs-2 col col-sm-2 col-md-1 col-lg-1"></div>
-		<div class="col-xs-2 col col-sm-2 col-md-10 col-lg-10">	
+		<div class="col-xs-1 col col-sm-1 col-md-1 col-lg-1"></div>
+		<div class="col-xs-10 col col-sm-10 col-md-10 col-lg-10">	
 		}}
 ~~~
 {}{img_left}{./data/me.jpg}{photo}{125px}{171px}{}
@@ -22,29 +22,39 @@
 [https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=RO4w5pAAAAAJ Google Scholar]\n
 ~~~
 
+{{<p align="center" style="margin-top: 30px; border-top: 3px double; border-bottom: 3px double; padding: 6px;">
+	<strong>
+		<a href="}}\#{{biography">[Biography]</a>
+		<a href="}}\#{{research">[Research]</a>
+		<a href="}}\#{{news">[News]</a>
+		<a href="}}\#{{publications">[Publications]</a>
+		<a href="}}\#{{services">[Services]</a>
+		<a href="}}\#{{group">[Group]</a>
+		<a href="}}\#{{teaching">[Teaching]</a>
+	</strong>
+</p>}}
 
-
+{{<a id="biography"></a>}}
 == Biography
 I am currently an Assistant Professor in the [http://csse.szu.edu.cn/en/index College of Computer Science and Software Engineering] of [http://www.szu.edu.cn/2014/en/ Shenzhen University], since September 2017. I obtained my Ph.D in February 2017 in the [https://www.cse.ust.hk/ CSE Department] of [http://www.ust.hk/ HKUST], under the supervision of [http://www.cse.ust.hk/~ni/ Professor Lionel M. Ni]. Prior to this, I received my B.E in [http://clet.xjtu.edu.cn/index.htm School of Chemical Engineering and Technology], [http://en.xjtu.edu.cn/ Xi'an Jiaotong University] in July 2013.
 
 
-
+{{<a id="research"></a>}}
 == Research Interests
 My research interest covers /Wearable and Mobile Computing/, /Human-computer Interaction/ and /Ubiquitous computing/. My vision is to develop new technologies, algorithms, and systems that enable smart sensing, provide intelligent services, and deliver novel applications. I draw on novel sensing \& computing technologies with /embedded system design/, /machine learning models/, /signal processing algorithms/, and /mathematical methods/ to solve real-world problems. I am now leading /Intelligent Perception and Mobile Computing/ Group.
 
+{{<a id="news"></a>}}
 == Academic News
 
-- 2020\/02, our paper "EchoWrite: An Acoustic-based Finger Input System Without Training" (extension of the ICDCS paper) has been accepted by IEEE TMC.
-- 2020\/01, Our paper "SilentSign: Touch-free Handwritten Signature Verification through Acoustic Sensing" has been accepted by PerCom 2020 with an acceptance rate of \~16%.
 - 2019\/05, I serve as the program vice chair of [http://hhme.ccf.org.cn/ZGTZ.html PCC 2019 (第十五届全国普适计算学术会议)]. Welcome to submit papers!
 - 2019\/04, I am invited to be publication co-chair of [http://www.icpads2019.cn/index.html ICPADS 2019]. Welcome to submit papers!
 - 2019\/04, our article "面向新型智能设备的交互技术" is to appear in issue 4, volume 15 of Communications of the CCF (CCCF). This Chinese article briefly reviews the latest advances of HCI methods for emerging smart devices.
 - 2019\/03, our paper "EchoWrite: An Acoustic-based Finger Input System Without Training" is accepted by IEEE ICDCS 2019 with an acceptance rate of  19.6\%.
 - 2019\/01, our paper "AcouDigits: Enabling Users to Input Digits in the Air" is accepted by IEEE Percom 2019 with an acceptance rate of 16.6\%.
-#- 2018\/09，I am invited to serve as a TPC member of [http://www.smart-world.org/2019/uic/index.php IEEE UIC 2019]. Welcome to submit papers!
-#- 2018\/09, our paper "ArmIn: Explore the Feasibility of Designing a Text-entry Application Using EMG Signals" is accepted by EAI Mobiquitous 2018. The first author is a master student under my supervision.
-#- 2018\/08, our paper "BiLock: User Authentication via Dental Occlusion Biometrics" is accepted by ACM Ubicomp 2018.
-#- 2018\/04, our Deomo paper "A Novel Finger-Assisted Touch-free Text Input System Without Training" is accpeted by ACM Mobisys 2018. The first author is a master student under my supervision.
+- 2018\/09，I am invited to serve as a TPC member of [http://www.smart-world.org/2019/uic/index.php IEEE UIC 2019]. Welcome to submit papers!
+- 2018\/09, our paper "ArmIn: Explore the Feasibility of Designing a Text-entry Application Using EMG Signals" is accepted by EAI Mobiquitous 2018. The first author is a master student under my supervision.
+- 2018\/08, our paper "BiLock: User Authentication via Dental Occlusion Biometrics" is accepted by ACM Ubicomp 2018.
+- 2018\/04, our Deomo paper "A Novel Finger-Assisted Touch-free Text Input System Without Training" is accpeted by ACM Mobisys 2018. The first author is a master student under my supervision.
 #- 2018\/02, I am invited to be TPC member of Globecom 2018.
 #- 2017\/07, our paper "ABAid: Navigation Aid for Blind People using Acoustic Signals" is accepted by IEEE MASS 2017. The first author is a UG student under my supervision.
 #- 2017\/07, I start a one-month academic visit to Professor Daqing Zhang's group in Peking University. 
@@ -52,18 +62,11 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 #- 2017\/05, I am invited to serve as TPC member and pulication chair of ICPADS 2017.
 
 
+{{<a id="publications"></a>}}
 == Selected Publications \[[./fullList.html Full List]\]
 * indicates Corresponding Author
 
 === Conference Papers
-
-~~~
-{}{img_left}{./data/SilentSign.jpg}{photo}{150px}{100px}{}
-*\[PerCom'20\] SilentSign: Touch-free Handwritten Signature Verification through Acoustic Sensing*
-\n Mengqi Chen, Jiawei Lin, {{<font color=LightSlateGray><b>}}Yongpan Zou*{{</b></font>}}, Rukhsana Ruby, Kaishun Wu \n
-/in Proceedings of IEEE PerCom/, Austin, Texas, USA, 2020. (CCF Rank B, Acceptance rate: \~16\%)  \n
-\[[./data/EchoWriteCamera.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/EchoWriteSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/tagFreebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
-~~~
 
 ~~~
 {}{img_left}{./data/EchoWrite.jpg}{photo}{150px}{100px}{}
@@ -81,13 +84,13 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 \[[./data/AcouDigits.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/AcouDigitsSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/tagFreebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 ~~~
 
-#~~~
-#{}{img_left}{./data/ArmIn.jpg}{photo}{150px}{100px}{}
-#*\[Mobiquitous'18\] ArmIn: Explore the Feasibility of Designing a Text-entry Application Using EMG Signals*
-#\n Qiang Yang, {{<font color=LightSlateGray><b>}}Yongpan Zou*{{</b></font>}}, Meng Zhao, Jiawei Lin, Kaishun Wu \n
-#/in Proceedings of EAI Mobiquitous/, New York City, USA, 2018. (CCF Rank C) \n
-#\[[./data/ArmInCamera.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/ArmInSlides.pdf {{<font #color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/tagFreebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
-#~~~
+~~~
+{}{img_left}{./data/ArmIn.jpg}{photo}{150px}{100px}{}
+*\[Mobiquitous'18\] ArmIn: Explore the Feasibility of Designing a Text-entry Application Using EMG Signals*
+\n Qiang Yang, {{<font color=LightSlateGray><b>}}Yongpan Zou*{{</b></font>}}, Meng Zhao, Jiawei Lin, Kaishun Wu \n
+/in Proceedings of EAI Mobiquitous/, New York City, USA, 2018. (CCF Rank C) \n
+\[[./data/ArmInCamera.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/ArmInSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/tagFreebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
+~~~
 
 ~~~
 {}{img_left}{./data/BiLock.jpg}{photo}{150px}{100px}{}
@@ -115,20 +118,11 @@ Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu
 
 
 === Journal Papers
-
-~~~
-{}{img_left}{./data/EchoWrite.jpg}{photo}{150px}{100px}{}
-*\[TMC\] EchoWrite: An Acoustic-based Finger Input System Without Training*
-\n Kaishun Wu, Qiang Yang, Baojie Yuan, {{<font color=LightSlateGray><b>}}Yongpan Zou*{{</b></font>}}, Rukhsana Ruby, Mo Li  \n
-/in IEEE Transactions on Mobile Computing/, Volume xx, Issue yy, pp. zz-zz, 2020. \n
-\[[./data/wifiRadar.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:kPtDIPmyNoUJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWSFzfTeSSQ0VSjdWB1BBjVsD9mVBa6S1&scisf=4&ct=citation&cd=-1&hl=zh-CN {{<font color=green><b>}}BibTex{{</b></font>}}]\]
-~~~
-
 ~~~
 {}{img_left}{./data/WiFiRadar.jpg}{photo}{150px}{100px}{}
 *\[COMMAG\] Wi-Fi Radar: Recognizing Human Behavior with Commodity Wi-Fi*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Weifeng Liu, Kaishun Wu, Lionel M. Ni \n
-/in IEEE Communications Magazine/, Volume 55, Issue 10, pp. 105-111, 2017. \n
+/in IEEE Communications Magazine/, Volume16, Issue 2, pp. 381-393, 2017. \n
 \[[./data/wifiRadar.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:kPtDIPmyNoUJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWSFzfTeSSQ0VSjdWB1BBjVsD9mVBa6S1&scisf=4&ct=citation&cd=-1&hl=zh-CN {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 ~~~
 
@@ -136,7 +130,7 @@ Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu
 {}{img_left}{./data/GRfid.jpg}{photo}{150px}{100px}{}
 *\[TMC\] GRfid: A Device-free Gesture Recognition System Using COTS RFID Device*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Jiang Xiao, Jinsong Han, Kaishun Wu, Yun Li, Lionel M. Ni \n
-/in IEEE Transactions on Mobile Computing/, Volume 16, Issue 2, pp. 381-393, 2016. \n
+/in IEEE Transactions on Mobile Computing/, Volume16, Issue 2, pp. 381-393, 2016. \n
 \[[./data/GRfid.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/Grfidbib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 ~~~
 
@@ -173,7 +167,7 @@ Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu
 #- 基于声学感知的
 
 
-
+{{<a id="services"></a>}}
 == Professional Services
 - TPC Member for
 -- IEEE Globecom 2017, IEEE ICPADS 2017, VTC 2018-Spring, IEEE Globecom 2018, IEEE UIC 2019
@@ -184,7 +178,7 @@ Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu
 -- Program vice chair of PCC 2019
 
 
-
+{{<a id="group"></a>}}
 == Group Members
 - PG Students
 -- Yetong Han, Jiawei Lin, since 2017
@@ -199,6 +193,7 @@ Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu
 -- Weifeng Liu, Shufeng Ye, Changsheng Zhou, Junjun Bao, Xuejin Zhou, since 2015
 -- Jingchuan Xu, Zehui Zheng, Jinyong Wu, since 2015
 
+{{<a id="teaching"></a>}}
 == Selected Teaching Achievements
 - \[[./data/MCM.pdf MCM Award]\], \[[./data/huazi.jpg 华资杯]\], \[[./data/IoTCompetition.jpg 物联网大赛]\], \[[./data/Excellent.jpg 物联网大赛]\], \[[./data/fyprojectTeacher.jpg 百篇优毕]\], \[[./data/fyprojectStu.jpg 百篇优毕]\], \[[./data/Fit-mobile.jpg 移动终端设计大赛]\], \[[./data/input-mobile.jpg 移动终端设计大赛]\], \[[./data/huawei.jpg 华为杯]\]
 
@@ -206,6 +201,6 @@ Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu
 
 {{
 	</div>
-	<div class="col-xs-2 col col-sm-2 col-md-1 col-lg-1"></div>
+	<div class="col-xs-1 col col-sm-1 col-md-1 col-lg-1"></div>
 	</div>
-	</div><div class="col-xs-2 col col-sm-2 col-md-1 col-lg-1"></div></div>}}
+	</div><div class="col-xs-1 col col-sm-1 col-md-1 col-lg-1"></div></div>}}
