@@ -67,30 +67,44 @@ Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu
 
 === Journal Papers
 
+~~~
+{}{img_left}{./data/iCoach.jpg}{photo}{150px}{100px}{}
+*\[IoT-J\] A Low-Cost Smart Glove System for Real-time Fitness Coaching*
+\n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Dan Wang, Shicong Hong, Rukhsana Ruby, Dian Zhang, Kaishun Wu  \n
+/in IEEE Internet of Things Journal/, Volume xx, Issue yy, pp. zz-zz, 2020. \n
+\[[./data/echowriteTMC.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:kPtDIPmyNoUJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWSFzfTeSSQ0VSjdWB1BBjVsD9mVBa6S1&scisf=4&ct=citation&cd=-1&hl=zh-CN {{<font color=green><b>}}BibTex{{</b></font>}}]\]
+~~~
+
+
 - *\[TMC\] EchoWrite: An Acoustic-based Finger Input System Without Training*
 \n Kaishun Wu, Qiang Yang, Baojie Yuan, {{<font color=LightSlateGray><b>}}Yongpan Zou*{{</b></font>}}, Rukhsana Ruby, Mo Li  \n
 /in IEEE Transactions on Mobile Computing/, Volume xx, Issue yy, pp. zz-zz, 2020. \n
 \[[./data/echowriteTMC.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:kPtDIPmyNoUJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWSFzfTeSSQ0VSjdWB1BBjVsD9mVBa6S1&scisf=4&ct=citation&cd=-1&hl=zh-CN {{<font color=green><b>}}BibTex{{</b></font>}}]\]
+
 
 - *\[COMMAG\] Wi-Fi Radar: Recognizing Human Behavior with Commodity Wi-Fi*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Weifeng Liu, Kaishun Wu, Lionel M. Ni \n
 /in IEEE Communications Magazine/, Volume16, Issue 2, pp. 381-393, 2017. \n
 \[[./data/wifiRadar.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:kPtDIPmyNoUJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWSFzfTeSSQ0VSjdWB1BBjVsD9mVBa6S1&scisf=4&ct=citation&cd=-1&hl=zh-CN {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 
+
 - *\[TMC\] GRfid: A Device-free Gesture Recognition System Using COTS RFID Device*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Jiang Xiao, Jinsong Han, Kaishun Wu, Yun Li, Lionel M. Ni \n
 /in IEEE Transactions on Mobile Computing/, Volume16, Issue 2, pp. 381-393, 2016. \n
 \[[./data/GRfid.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/Grfidbib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
+
 
 - *\[TMC\] SmartScanner: Know More in Walls with Your Smartphone!* 
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Guanhua Wang, Kaishun Wu, Lionel M. Ni \n
 /in IEEE Transactions on Mobile Computing/, Vol. 15, Issue 11, pp. 2865-2877, 2016. \n
 \[[./data/SmartScanner.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/Smartscannerbib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 
+
 - *\[TMC\] We Can Hear You with Wi-Fi!* {{<font color=red><b>}}(Feature Article){{</b></font>}}
 \n Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu Zhou, Kaishun Wu, Lionel M. Ni \n
 /in IEEE Transactions on Mobile Computing/, Vol. 15, Issue 11, pp. 2907-2920, 2016. \n
 \[[./data/wihear_tmc.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/wihearbib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
+
 
 === Workshop\/Poster\/Demo\/Others
 - *\[MobiSys'18\] Demo: A Novel Finger-Assisted Touch-free Text Input System Without Training*

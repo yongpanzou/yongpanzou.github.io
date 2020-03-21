@@ -17,8 +17,8 @@
 [http://csse.szu.edu.cn/en/index College of Computer Science and Software Engineering]    \n
 [http://www.szu.edu.cn/2014/en/ Shenzhen University] \n
 #Assistant Director, Engineering Research Center of Wireless Big Data and Future Network  \n 
-*Addr.:*Room 943\/720, Building of Computer Science, South Distrcit, Shenzhen University  \n
-*Email:*/yongpan\@szu.edu.cn/; *Tel.:* /075586934659/\n
+*Addr.:* Room 943\/720, Building of Computer Science, South Distrcit, Shenzhen University  \n
+*Email:* /yongpan\@szu.edu.cn/; *Tel.:* /(0755)86934659/    \n
 \[[https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=RO4w5pAAAAAJ Google Scholar]\] \[[https://dblp.org/pers/z/Zou:Yongpan.html DBLP]\] \[[https://www.researchgate.net/profile/Yongpan_Zou ResearchGate]\] \n
 ~~~
 
@@ -48,8 +48,9 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 {{<a id="news"></a>}}
 == Academic News
 
+-2020\/03, our paper "A Low-Cost Smart Glove System for Real-time Fitness Coaching" has been accepted by IEEE Internet of Things Journal.
 - 2020\/02, our paper "EchoWrite: An Acoustic-based Finger Input System Without Training" (extension of the ICDCS paper) has been accepted by IEEE TMC.
-- 2020\/01, Our paper "SilentSign: Touch-free Handwritten Signature Verification through Acoustic Sensing" has been accepted by PerCom 2020 with an acceptance rate of \~16%.
+- 2020\/01, Our paper "SilentSign: Touch-free Handwritten Signature Verification through Acoustic Sensing" has been accepted by IEEE PerCom 2020 with an acceptance rate of \~16%.
 - 2019\/05, I serve as the program vice chair of [http://hhme.ccf.org.cn/ZGTZ.html PCC 2019 (第十五届全国普适计算学术会议)]. Welcome to submit papers!
 - 2019\/04, I am invited to be publication co-chair of [http://www.icpads2019.cn/index.html ICPADS 2019]. Welcome to submit papers!
 - 2019\/04, our article "面向新型智能设备的交互技术" is to appear in issue 4, volume 15 of Communications of the CCF (CCCF). This Chinese article briefly reviews the latest advances of HCI methods for emerging smart devices.
@@ -61,6 +62,7 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 {{<a id="publications"></a>}}
 == Selected Publications \[[./fullList.html Full List]\]
 * indicates Corresponding Author
+
 
 === Conference Papers
 
@@ -122,6 +124,15 @@ Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu
 
 
 === Journal Papers
+
+~~~
+{}{img_left}{./data/iCoach.jpg}{photo}{150px}{100px}{}
+*\[IoT-J\] A Low-Cost Smart Glove System for Real-time Fitness Coaching*
+\n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Dan Wang, Shicong Hong, Rukhsana Ruby, Dian Zhang, Kaishun Wu  \n
+/in IEEE Internet of Things Journal/, Volume xx, Issue yy, pp. zz-zz, 2020. \n
+\[[./data/echowriteTMC.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:kPtDIPmyNoUJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWSFzfTeSSQ0VSjdWB1BBjVsD9mVBa6S1&scisf=4&ct=citation&cd=-1&hl=zh-CN {{<font color=green><b>}}BibTex{{</b></font>}}]\]
+~~~
+
 
 ~~~
 {}{img_left}{./data/EchoWrite.jpg}{photo}{150px}{100px}{}
