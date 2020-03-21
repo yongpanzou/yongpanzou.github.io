@@ -48,7 +48,7 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 {{<a id="news"></a>}}
 == Academic News
 
--2020\/03, our paper "A Low-Cost Smart Glove System for Real-time Fitness Coaching" has been accepted by IEEE Internet of Things Journal.
+- 2020\/03, our paper "A Low-Cost Smart Glove System for Real-time Fitness Coaching" has been accepted by IEEE Internet of Things Journal.
 - 2020\/02, our paper "EchoWrite: An Acoustic-based Finger Input System Without Training" (extension of the ICDCS paper) has been accepted by IEEE TMC.
 - 2020\/01, Our paper "SilentSign: Touch-free Handwritten Signature Verification through Acoustic Sensing" has been accepted by IEEE PerCom 2020 with an acceptance rate of \~16%.
 - 2019\/05, I serve as the program vice chair of [http://hhme.ccf.org.cn/ZGTZ.html PCC 2019 (第十五届全国普适计算学术会议)]. Welcome to submit papers!
@@ -133,7 +133,6 @@ Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu
 \[[./data/echowriteTMC.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:kPtDIPmyNoUJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWSFzfTeSSQ0VSjdWB1BBjVsD9mVBa6S1&scisf=4&ct=citation&cd=-1&hl=zh-CN {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 ~~~
 
-
 ~~~
 {}{img_left}{./data/EchoWrite.jpg}{photo}{150px}{100px}{}
 *\[TMC\] EchoWrite: An Acoustic-based Finger Input System Without Training*
@@ -158,7 +157,6 @@ Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu
 \[[./data/GRfid.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/Grfidbib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 ~~~
 
-
 ~~~
 {}{img_left}{./data/SmartScanner.jpg}{photo}{150px}{100px}{}
 *\[TMC\] SmartScanner: Know More in Walls with Your Smartphone!* 
@@ -166,8 +164,6 @@ Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu
 /in IEEE Transactions on Mobile Computing/, Vol. 15, Issue 11, pp. 2865-2877, 2016. \n
 \[[./data/SmartScanner.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/Smartscannerbib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 ~~~
-
-
 
 === Workshop\/Poster\/Demo\/Others
 ~~~
