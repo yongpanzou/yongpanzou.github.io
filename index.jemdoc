@@ -150,7 +150,7 @@ Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu
 ~~~
 
 ~~~
-{}{img_left}{./data/GRfid.jpg}{photo}{150px}{100px}{}
+{}{img_left}{./data/GRfid.png}{photo}{150px}{100px}{}
 *\[TMC\] GRfid: A Device-free Gesture Recognition System Using COTS RFID Device*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Jiang Xiao, Jinsong Han, Kaishun Wu, Yun Li, Lionel M. Ni \n
 /in IEEE Transactions on Mobile Computing/, Volume16, Issue 2, pp. 381-393, 2016. \n
