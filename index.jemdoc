@@ -106,21 +106,21 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 \[[./data/BiLockCamera.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/BiLockSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[https://youtu.be/IYdNcvU_uDs {{<font color=purple><b>}}Demo{{</b></font>}}]\]\[[./data/bilock.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 ~~~
 
-~~~
-{}{img_left}{./data/TagFree.jpg}{photo}{150px}{100px}{}
-*\[PerCom'17\] TagFree: Passive Object Differentiation via Physical Layer Radiometric Signatures*
-\n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Yuxi Wang, Shufeng Ye, Kaishun Wu, Lionel M. Ni \n
-/in Proceedings of IEEE Percom/, Hawaii, USA, 2017. (CCF Rank B, Acceptance rate: 16.5\%) \n
-\[[./data/TagFree.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/TagFreeSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/tagFreebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
-~~~
+#~~~
+#{}{img_left}{./data/TagFree.jpg}{photo}{150px}{100px}{}
+#*\[PerCom'17\] TagFree: Passive Object Differentiation via Physical Layer Radiometric Signatures*
+#\n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Yuxi Wang, Shufeng Ye, Kaishun Wu, Lionel M. Ni \n
+#/in Proceedings of IEEE Percom/, Hawaii, USA, 2017. (CCF Rank B, Acceptance rate: 16.5\%) \n
+#\[[./data/TagFree.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/TagFreeSlides.pdf {{<font #color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/tagFreebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
+#~~~
 
-~~~
-{}{img_left}{./data/WiHear.jpg}{photo}{150px}{100px}{}
-*\[Mobicom'14\] We Can Hear You with WiFi!* \n
-Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu Zhou, Kaishun Wu, Lionel M. Ni \n
-/in Proceedings of ACM Mobicom/, Hawaii, USA, 2014. (CCF Rank A, Acceptance rate: 16.4\%)  \n
-\[[./data/WiHear.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/WiHearSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/wihearbib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
-~~~
+#~~~
+#{}{img_left}{./data/WiHear.jpg}{photo}{150px}{100px}{}
+#*\[Mobicom'14\] We Can Hear You with WiFi!* \n
+#Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu Zhou, Kaishun Wu, Lionel M. Ni \n
+#/in Proceedings of ACM Mobicom/, Hawaii, USA, 2014. (CCF Rank A, Acceptance rate: 16.4\%)  \n
+#\[[./data/WiHear.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/WiHearSlides.pdf {{<font #color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/wihearbib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
+#~~~
 
 
 === Journal Papers
@@ -157,13 +157,13 @@ Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu
 \[[./data/GRfid.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/Grfidbib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 ~~~
 
-~~~
-{}{img_left}{./data/SmartScanner.jpg}{photo}{150px}{100px}{}
-*\[TMC\] SmartScanner: Know More in Walls with Your Smartphone!* 
-\n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Guanhua Wang, Kaishun Wu, Lionel M. Ni \n
-/in IEEE Transactions on Mobile Computing/, Vol. 15, Issue 11, pp. 2865-2877, 2016. \n
-\[[./data/SmartScanner.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/Smartscannerbib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
-~~~
+#~~~
+#{}{img_left}{./data/SmartScanner.jpg}{photo}{150px}{100px}{}
+#*\[TMC\] SmartScanner: Know More in Walls with Your Smartphone!* 
+#\n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Guanhua Wang, Kaishun Wu, Lionel M. Ni \n
+#/in IEEE Transactions on Mobile Computing/, Vol. 15, Issue 11, pp. 2865-2877, 2016. \n
+#\[[./data/SmartScanner.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/Smartscannerbib.txt {{<font #color=green><b>}}BibTex{{</b></font>}}]\]
+#~~~
 
 === Workshop\/Poster\/Demo\/Others
 ~~~
