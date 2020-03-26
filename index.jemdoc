@@ -61,7 +61,7 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 
 {{<a id="publications"></a>}}
 == Selected Publications \[[./fullList.html Full List]\]
-* indicates Corresponding Author
+* indicates the Corresponding Author; AR is short for Acceptance Rate
 
 
 === Conference Papers
@@ -70,7 +70,7 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 {}{img_left}{./data/SilentSign.jpg}{photo}{150px}{100px}{}
 *\[PerCom'20\] SilentSign: Touch-free Handwritten Signature Verification through Acoustic Sensing*
 \n Mengqi Chen, Jiawei Lin, {{<font color=LightSlateGray><b>}}Yongpan Zou*{{</b></font>}}, Rukhsana Ruby, Kaishun Wu \n
-/in Proceedings of IEEE PerCom/, Austin, Texas, USA, 2020. (CCF Rank B, Acceptance rate: \~16\%)  \n
+/in Proceedings of the IEEE PerCom/, Austin, Texas, USA, 2020. (CCF Rank B, AR: \~16\%)  \n
 \[[./data/SilentSignCamera.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/EchoWriteSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/tagFreebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 ~~~
 
@@ -78,7 +78,7 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 {}{img_left}{./data/EchoWrite.jpg}{photo}{150px}{100px}{}
 *\[ICDCS'19\] EchoWrite: An Acoustic-based Finger Input System Without Training*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Qiang Yang, Rukhsana Ruby, Yetong Han, Mo Li, Kaishun Wu \n
-/in Proceedings of the IEEE ICDCS/, Dallas, Texas, USA, 2019. (CCF Rank B, Acceptance rate: 19.6\%)\n
+/in Proceedings of the IEEE ICDCS/, Dallas, Texas, USA, 2019. (CCF Rank B, AR: 19.6\%)      \n
 \[[./data/EchoWriteCamera.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/EchoWriteSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/tagFreebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 ~~~
 
@@ -86,7 +86,7 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 {}{img_left}{./data/EchoType.png}{photo}{150px}{100px}{}
 *\[PerCom'19\] AcouDigits: Enabling Users to Input Digits in the Air*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Qiang Yang, Yetong Han, Dan Wang, Jiannong Cao, Kaishun Wu \n
-/in Proceedings of IEEE Percom/, Kyoto, Japan, 2019. (CCF Rank B, Acceptance rate: 16.6\%) \n
+/in Proceedings of the IEEE Percom/, Kyoto, Japan, 2019. (CCF Rank B, AR: 16.6\%) \n
 \[[./data/AcouDigits.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/AcouDigitsSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/tagFreebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 ~~~
 
@@ -94,7 +94,7 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 #{}{img_left}{./data/ArmIn.jpg}{photo}{150px}{100px}{}
 #*\[Mobiquitous'18\] ArmIn: Explore the Feasibility of Designing a Text-entry Application Using EMG Signals*
 #\n Qiang Yang, {{<font color=LightSlateGray><b>}}Yongpan Zou*{{</b></font>}}, Meng Zhao, Jiawei Lin, Kaishun Wu \n
-#/in Proceedings of EAI Mobiquitous/, New York City, USA, 2018. (CCF Rank C) \n
+#/in Proceedings of the EAI Mobiquitous/, New York City, USA, 2018. (CCF Rank C) \n
 #\[[./data/ArmInCamera.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/ArmInSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/tagFreebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 #~~~
 
@@ -102,7 +102,7 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 {}{img_left}{./data/BiLock.png}{photo}{150px}{100px}{}
 *\[Ubicomp'18\] BiLock: User Authentication via Dental Occlusion Biometrics*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Meng Zhao, Zimu Zhou, Jiawei Lin, Mo Li, Kaishun Wu \n
-/In Proceedings of ACM Ubicomp/, Singapore, 2018. (CCF Rank A, Acceptance rate: \~20\%)  \n
+/In Proceedings of ACM Ubicomp/, Singapore, 2018. (CCF Rank A, AR: \~20\%)  \n
 \[[./data/BiLockCamera.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/BiLockSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[https://youtu.be/IYdNcvU_uDs {{<font color=purple><b>}}Demo{{</b></font>}}]\]\[[./data/bilock.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 ~~~
 
@@ -110,7 +110,7 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 #{}{img_left}{./data/TagFree.jpg}{photo}{150px}{100px}{}
 #*\[PerCom'17\] TagFree: Passive Object Differentiation via Physical Layer Radiometric Signatures*
 #\n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Yuxi Wang, Shufeng Ye, Kaishun Wu, Lionel M. Ni \n
-#/in Proceedings of IEEE Percom/, Hawaii, USA, 2017. (CCF Rank B, Acceptance rate: 16.5\%) \n
+#/in Proceedings of the IEEE Percom/, Hawaii, USA, 2017. (CCF Rank B, AR: 16.5\%)                                 \n
 #\[[./data/TagFree.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/TagFreeSlides.pdf {{<font #color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/tagFreebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 #~~~
 
@@ -118,7 +118,7 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 #{}{img_left}{./data/WiHear.jpg}{photo}{150px}{100px}{}
 #*\[Mobicom'14\] We Can Hear You with WiFi!* \n
 #Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu Zhou, Kaishun Wu, Lionel M. Ni \n
-#/in Proceedings of ACM Mobicom/, Hawaii, USA, 2014. (CCF Rank A, Acceptance rate: 16.4\%)  \n
+#/in Proceedings of the ACM Mobicom/, Hawaii, USA, 2014. (CCF Rank A, AR: 16.4\%)  \n
 #\[[./data/WiHear.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/WiHearSlides.pdf {{<font #color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/wihearbib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 #~~~
 
@@ -145,7 +145,7 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 {}{img_left}{./data/WiFiRadar.png}{photo}{150px}{100px}{}
 *\[COMMAG\] Wi-Fi Radar: Recognizing Human Behavior with Commodity Wi-Fi*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Weifeng Liu, Kaishun Wu, Lionel M. Ni \n
-/in IEEE Communications Magazine/, Volume16, Issue 2, pp. 381-393, 2017. \n
+/in IEEE Communications Magazine/, Volume 55, Issue 10, pp. 105-111, 2017. \n
 \[[./data/wifiRadar.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:kPtDIPmyNoUJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWSFzfTeSSQ0VSjdWB1BBjVsD9mVBa6S1&scisf=4&ct=citation&cd=-1&hl=zh-CN {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 ~~~
 
@@ -153,7 +153,7 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 {}{img_left}{./data/GRfid.png}{photo}{150px}{100px}{}
 *\[TMC\] GRfid: A Device-free Gesture Recognition System Using COTS RFID Device*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Jiang Xiao, Jinsong Han, Kaishun Wu, Yun Li, Lionel M. Ni \n
-/in IEEE Transactions on Mobile Computing/, Volume16, Issue 2, pp. 381-393, 2016. \n
+/in IEEE Transactions on Mobile Computing/, Volume 16, Issue 2, pp. 381-393, 2017. \n
 \[[./data/GRfid.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/Grfidbib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 ~~~
 
