@@ -18,22 +18,22 @@
 
 - *\[PerCom'20\] SilentSign: Touch-free Handwritten Signature Verification through Acoustic Sensing*
 \n Mengqi Chen, Jiawei Lin, {{<font color=LightSlateGray><b>}}Yongpan Zou*{{</b></font>}}, Rukhsana Ruby, Kaishun Wu \n
-/in Proceedings of the IEEE PerCom/, Austin, Texas, USA, 2020. (CCF Rank B, AR: \~16\%)  \n
+/in Proceedings of the 18th IEEE PerCom/, Austin, Texas, USA, 2020. (CCF Rank B, AR: \~16\%)  \n
 \[[./data/SilentSignCamera.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/EchoWriteSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/tagFreebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 
 - *\[ICDCS'19\] EchoWrite: An Acoustic-based Finger Input System Without Training*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Qiang Yang, Rukhsana Ruby, Yetong Han, Mo Li, Kaishun Wu \n
-/in Proceedings of the IEEE ICDCS/, Dallas, Texas, USA, 2019. (CCF Rank B, AR: 19.6\%)                                    \n
+/in Proceedings of the 39th IEEE ICDCS/, Dallas, Texas, USA, 2019. (CCF Rank B, AR: 19.6\%)                                    \n
 \[[./data/EchoWriteCamera.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/EchoWriteSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/tagFreebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 
 - *\[PerCom'19\] AcouDigits: Enabling Users to Input Digits in the Air*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Qiang Yang, Yetong Han, Dan Wang, Jiannong Cao, Kaishun Wu \n
-/in Proceedings of the IEEE Percom/, Kyoto, Japan, 2019. (CCF Rank B, AR: 16.6\%) \n
+/in Proceedings of the 17th IEEE Percom/, Kyoto, Japan, 2019. (CCF Rank B, AR: 16.6\%) \n
 \[[./data/AcouDigits.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/AcouDigitsSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/tagFreebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 
 - *\[Mobiquitous'18\] ArmIn: Explore the Feasibility of Designing a Text-entry Application Using EMG Signals*
 \n Qiang Yang, {{<font color=LightSlateGray><b>}}Yongpan Zou*{{</b></font>}}, Meng Zhao, Jiawei Lin, Kaishun Wu \n
-/in Proceedings of the EAI Mobiquitous/, New York City, USA, 2018. (CCF Rank C) \n
+/in Proceedings of the 15th EAI Mobiquitous/, New York City, USA, 2018. (CCF Rank C) \n
 \[[./data/ArmInCamera.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/TagFree.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/TagFree.pdf {{<font color=purple><b>}}Demo{{</b></font>}}]\]\[[./data/tagFreebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 
 - *\[Ubicomp'18\] BiLock: User Authentication via Dental Occlusion Biometrics*
@@ -43,27 +43,27 @@
 
 - *\[MASS'17\] ABAid: Navigation Aid for Blind People using Acoustic Signals*
 \n Zehui Zheng, Weifeng Liu, Rukhsana Ruby, {{<font color=LightSlateGray><b>}}Yongpan Zou*{{</b></font>}}, Kaishun Wu \n
-/in Proceedings of IEEE MASS/, Florida, USA, 2017. (CCF Rank C) \n
+/in Proceedings of the 14th IEEE MASS/, Florida, USA, 2017. (CCF Rank C) \n
 \[[./data/ABAid.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/ABAidSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/ABAidbib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 
 - *\[PerCom'17\] TagFree: Passive Object Differentiation via Physical Layer Radiometric Signatures*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Yuxi Wang, Shufeng Ye, Kaishun Wu, Lionel M. Ni \n
-/in Proceedings of the IEEE Percom/, Hawaii, USA, 2017. (CCF Rank B, AR: 16.5\%) \n
+/in Proceedings of the 15th IEEE Percom/, Hawaii, USA, 2017. (CCF Rank B, AR: 16.5\%) \n
 \[[./data/TagFree.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/TagFreeSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/tagFreebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 
 - *\[ICCCN'15\] WiG: WiFi-Based Gesture Recognition System* \n
 Wenfeng He, Kaishun Wu, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zhong Ming   \n
-/in Proceedings of the IEEE ICCCN/, Las Vegas, USA, 2015. (CCF Rank C)                             \n
+/in Proceedings of the 24th IEEE ICCCN/, Las Vegas, USA, 2015. (CCF Rank C)                             \n
 \[[./data/WiG.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/Wigbib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 
 - *\[MASS'14\] SmartSensing: Sensing Through Walls with Your Smartphone!* {{<font color=red><b>}}(Best Paper Award){{</b></font>}}
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Guanhua Wang, Kaishun Wu, Lionel M. Ni \n
-/in Proceedings of the IEEE MASS/, Philadelphia, USA, 2014. (CCF Rank C)                                \n
+/in Proceedings of the 11th IEEE MASS/, Philadelphia, USA, 2014. (CCF Rank C)                                \n
 \[[./data/smartsense.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/Smarsensebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 
 - *\[Mobicom'14\] We Can Hear You with WiFi!* \n
 Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu Zhou, Kaishun Wu, Lionel M. Ni \n
-/in Proceedings of the ACM Mobicom/, Hawaii, USA, 2014. (CCF Rank A, AR: 16.4\%) \n
+/in Proceedings of the 20th ACM Mobicom/, Hawaii, USA, 2014. (CCF Rank A, AR: 16.4\%) \n
 \[[./data/WiHear.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/WiHearSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/wihearbib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 
 
