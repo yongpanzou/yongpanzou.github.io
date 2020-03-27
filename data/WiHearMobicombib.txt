@@ -1,0 +1,8 @@
+@inproceedings{wang2014wihear,
+  title={We can hear you with Wi-Fi!},
+  author={Wang, guanhua and Zou, Yongpan and Zhou, zimu and Wu, Kaishun and Ni, Lionel M.},
+  booktitle={Proceedings of the 20th annual international conference on Mobile computing and networking (Mobicom 2014)},
+  pages={593--604},
+  year={2014},
+  organization={ACM}
+}

@@ -1,7 +1,7 @@
 @inproceedings{zou2014smartsensing,
   title={Smartsensing: Sensing through walls with your smartphone!},
   author={Zou, Yongpan and Wang, Guanhua and Wu, Kaishun and Ni, Lionel M},
-  booktitle={Proceedings of IEEE MASS},
+  booktitle={Proceedings of the 11th IEEE International Conference on Mobile Ad Hoc and Sensor Systems (MASS 2014)},
   pages={55--63},
   year={2014},
   organization={IEEE}

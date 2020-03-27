@@ -1,0 +1,10 @@
+@article{zou2018bilock,
+  title={BiLock: User authentication via dental occlusion biometrics},
+  author={Zou, Yongpan and Zhao, Meng and Zhou, Zimu and Lin, Jiawei and Li, Mo and Wu, Kaishun},
+  journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (Ubicomp 2018)},
+  volume={2},
+  number={3},
+  pages={1--20},
+  year={2018},
+  publisher={ACM}
+}

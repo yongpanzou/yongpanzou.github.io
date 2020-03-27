@@ -79,7 +79,7 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 *\[ICDCS'19\] EchoWrite: An Acoustic-based Finger Input System Without Training*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Qiang Yang, Rukhsana Ruby, Yetong Han, Mo Li, Kaishun Wu \n
 /in Proceedings of the 39th IEEE ICDCS/, Dallas, Texas, USA, 2019. (CCF Rank B, AR: 19.6\%)      \n
-\[[./data/EchoWriteCamera.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/EchoWriteSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/tagFreebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
+\[[./data/EchoWrite.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/EchoWriteSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/EchoWritebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 ~~~
 
 ~~~
@@ -87,7 +87,7 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 *\[PerCom'19\] AcouDigits: Enabling Users to Input Digits in the Air*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Qiang Yang, Yetong Han, Dan Wang, Jiannong Cao, Kaishun Wu \n
 /in Proceedings of the 17th IEEE Percom/, Kyoto, Japan, 2019. (CCF Rank B, AR: 16.6\%) \n
-\[[./data/AcouDigits.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/AcouDigitsSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/tagFreebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
+\[[./data/AcouDigits.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/AcouDigitsSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/AcouDigitsbib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 ~~~
 
 #~~~
@@ -95,7 +95,7 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 #*\[Mobiquitous'18\] ArmIn: Explore the Feasibility of Designing a Text-entry Application Using EMG Signals*
 #\n Qiang Yang, {{<font color=LightSlateGray><b>}}Yongpan Zou*{{</b></font>}}, Meng Zhao, Jiawei Lin, Kaishun Wu \n
 #/in Proceedings of the 15th EAI Mobiquitous/, New York City, USA, 2018. (CCF Rank C) \n
-#\[[./data/ArmInCamera.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/ArmInSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/tagFreebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
+#\[[./data/ArmIn.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/ArmInSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/ArmInbib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 #~~~
 
 ~~~
@@ -103,7 +103,7 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 *\[Ubicomp'18\] BiLock: User Authentication via Dental Occlusion Biometrics*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Meng Zhao, Zimu Zhou, Jiawei Lin, Mo Li, Kaishun Wu \n
 /In Proceedings of the ACM Ubicomp/, Singapore, 2018. (CCF Rank A, AR: \~20\%)  \n
-\[[./data/BiLockCamera.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/BiLockSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[https://youtu.be/IYdNcvU_uDs {{<font color=purple><b>}}Demo{{</b></font>}}]\]\[[./data/bilock.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
+\[[./data/BiLock.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/BiLockSlides.pdf {{<font color=navy><b>}}Slides{{</b></font>}}]\]\[[https://youtu.be/IYdNcvU_uDs {{<font color=purple><b>}}Demo{{</b></font>}}]\]\[[./data/BiLock.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 ~~~
 
 #~~~
@@ -111,7 +111,7 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 #*\[PerCom'17\] TagFree: Passive Object Differentiation via Physical Layer Radiometric Signatures*
 #\n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Yuxi Wang, Shufeng Ye, Kaishun Wu, Lionel M. Ni \n
 #/in Proceedings of the 15th IEEE Percom/, Hawaii, USA, 2017. (CCF Rank B, AR: 16.5\%)                                 \n
-#\[[./data/TagFree.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/TagFreeSlides.pdf {{<font #color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/tagFreebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
+#\[[./data/TagFree.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/TagFreeSlides.pdf {{<font #color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/TagFreebib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 #~~~
 
 #~~~
@@ -119,7 +119,7 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 #*\[Mobicom'14\] We Can Hear You with WiFi!* \n
 #Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu Zhou, Kaishun Wu, Lionel M. Ni \n
 #/in Proceedings of the 20th ACM Mobicom/, Hawaii, USA, 2014. (CCF Rank A, AR: 16.4\%)  \n
-#\[[./data/WiHear.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/WiHearSlides.pdf {{<font #color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/wihearbib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
+#\[[./data/WiHear.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/WiHearSlides.pdf {{<font #color=navy><b>}}Slides{{</b></font>}}]\]\[[./data/WiHearMobicombib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 #~~~
 
 

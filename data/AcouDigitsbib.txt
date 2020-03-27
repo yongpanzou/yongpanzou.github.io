@@ -1,0 +1,8 @@
+@inproceedings{zou2019acoudigits,
+  title={Acoudigits: Enabling users to input digits in the air},
+  author={Zou, Yongpan and Yang, Qiang and Han, Yetong and Wang, Dan and Cao, Jiannong and Wu, Kaishun},
+  booktitle={Proceedings of the 17th IEEE International Conference on Pervasive Computing and Communications (PerCom 2019)},
+  pages={1--9},
+  year={2019},
+  organization={IEEE}
+}

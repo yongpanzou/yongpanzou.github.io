@@ -1,0 +1,7 @@
+@inproceedings{yang2018armin,
+  title={ArmIn: Explore the Feasibility of Designing a Text-entry Application Using EMG Signals},
+  author={Yang, Qiang and Zou, Yongpan and Zhao, Meng and Lin, Jiawei and Wu, Kaishun},
+  booktitle={Proceedings of the 15th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (Mobiquitous 2018)},
+  pages={117--126},
+  year={2018}
+}
