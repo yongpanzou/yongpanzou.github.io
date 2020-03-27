@@ -1,6 +1,6 @@
 @inproceedings{echowrite2019, 
 author={Y. {Zou} and Q. {Yang} and R. {Ruby} and Y. {Han} and S. {Wu} and M. {Li} and K. {Wu}}, 
-booktitle={2019 IEEE 39th International Conference on Distributed Computing Systems (ICDCS)}, 
+booktitle={Proceedings of the 39th IEEE International Conference on Distributed Computing Systems (ICDCS 2019)}, 
 title={EchoWrite: An Acoustic-based Finger Input System Without Training}, 
 year={2019}, 
 volume={}, 
