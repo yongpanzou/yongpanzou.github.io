@@ -1,0 +1,10 @@
+@article{zou2020low,
+  title={A Low-Cost Smart Glove System for Real-time Fitness Coaching},
+  author={Zou, Yongpan and Wang, Dan and Hong, Shicong and Ruby, Rukhsana and Zhang, Dian and Wu, Kaishun},
+  journal={IEEE Internet of Things Journal},
+  volume={7},
+  number={8},
+  pages={7377--7391},
+  year={2020},
+  publisher={IEEE}
+}

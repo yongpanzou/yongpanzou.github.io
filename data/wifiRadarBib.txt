@@ -1,0 +1,10 @@
+@article{zou2017wi,
+  title={Wi-Fi radar: Recognizing human behavior with commodity Wi-Fi},
+  author={Zou, Yongpan and Liu, Weifeng and Wu, Kaishun and Ni, Lionel M},
+  journal={IEEE Communications Magazine},
+  volume={55},
+  number={10},
+  pages={105--111},
+  year={2017},
+  publisher={IEEE}
+}
