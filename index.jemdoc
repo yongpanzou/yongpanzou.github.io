@@ -133,7 +133,7 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 {}{img_left}{./data/iCoach.png}{photo}{150px}{100px}{}
 *\[IoT-J\] A Low-Cost Smart Glove System for Real-time Fitness Coaching*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Dan Wang, Shicong Hong, Rukhsana Ruby, Dian Zhang, Kaishun Wu  \n
-/in IEEE Internet of Things Journal/, Volume xx, Issue yy, pp. zz-zz, 2020. \n
+/in IEEE Internet of Things Journal/, Volume 7, Issue 8, pp. 7377-7391, March 2020. \n
 \[[./data/echowriteTMC.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:kPtDIPmyNoUJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWSFzfTeSSQ0VSjdWB1BBjVsD9mVBa6S1&scisf=4&ct=citation&cd=-1&hl=zh-CN {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 ~~~
 
@@ -141,7 +141,7 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 {}{img_left}{./data/EchoWrite.jpg}{photo}{150px}{100px}{}
 *\[TMC\] EchoWrite: An Acoustic-based Finger Input System Without Training*
 \n Kaishun Wu, Qiang Yang, Baojie Yuan, {{<font color=LightSlateGray><b>}}Yongpan Zou*{{</b></font>}}, Rukhsana Ruby, Mo Li  \n
-/in IEEE Transactions on Mobile Computing/, Volume xx, Issue yy, pp. zz-zz, 2020. \n
+/in IEEE Transactions on Mobile Computing/, Volume xx, Issue yy, pp. zz-zz, February 2020. \n
 \[[./data/echowriteTMC.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:kPtDIPmyNoUJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWSFzfTeSSQ0VSjdWB1BBjVsD9mVBa6S1&scisf=4&ct=citation&cd=-1&hl=zh-CN {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 ~~~
 
@@ -149,15 +149,15 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 {}{img_left}{./data/WiFiRadar.png}{photo}{150px}{100px}{}
 *\[COMMAG\] Wi-Fi Radar: Recognizing Human Behavior with Commodity Wi-Fi*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Weifeng Liu, Kaishun Wu, Lionel M. Ni \n
-/in IEEE Communications Magazine/, Volume 55, Issue 10, pp. 105-111, 2017. \n
+/in IEEE Communications Magazine/, Volume 55, Issue 10, pp. 105-111, October 2017. \n
 \[[./data/wifiRadar.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[https://scholar.googleusercontent.com/scholar.bib?q=info:kPtDIPmyNoUJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWSFzfTeSSQ0VSjdWB1BBjVsD9mVBa6S1&scisf=4&ct=citation&cd=-1&hl=zh-CN {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 ~~~
 
 ~~~
 {}{img_left}{./data/GRfid.png}{photo}{150px}{100px}{}
-*\[TMC\] GRfid: A Device-free Gesture Recognition System Using COTS RFID Device*
+*\[TMC\] GRfid: A Device-Free RFID-Based Gesture Recognition System*
 \n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Jiang Xiao, Jinsong Han, Kaishun Wu, Yun Li, Lionel M. Ni \n
-/in IEEE Transactions on Mobile Computing/, Volume 16, Issue 2, pp. 381-393, 2017. \n
+/in IEEE Transactions on Mobile Computing/, Volume 16, Issue 2, pp. 381-393, February 2017. \n
 \[[./data/GRfid.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/Grfidbib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 ~~~
 
@@ -165,7 +165,7 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 #{}{img_left}{./data/SmartScanner.jpg}{photo}{150px}{100px}{}
 #*\[TMC\] SmartScanner: Know More in Walls with Your Smartphone!* 
 #\n {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Guanhua Wang, Kaishun Wu, Lionel M. Ni \n
-#/in IEEE Transactions on Mobile Computing/, Vol. 15, Issue 11, pp. 2865-2877, 2016. \n
+#/in IEEE Transactions on Mobile Computing/, Vol. 15, Issue 11, pp. 2865-2877, November 2016. \n
 #\[[./data/SmartScanner.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/Smartscannerbib.txt {{<font #color=green><b>}}BibTex{{</b></font>}}]\]
 #~~~
 
@@ -181,9 +181,9 @@ My research interest covers /Wearable and Mobile Computing/, /Human-computer Int
 
 ~~~
 {}{img_left}{./data/EchoType.png}{photo}{150px}{100px}{}
-*\[MobiSys'18\] Demo: A Novel Finger-Assisted Touch-free Text Input System Without Training*
+*\[MobiSys'18\] A Novel Finger-Assisted Touch-free Text Input System Without Training*
 \n Qiang Yang, Hongrui Fu, {{<font color=LightSlateGray><b>}}Yongpan Zou*{{</b></font>}}, Kaishun Wu \n
-/in Proceedings of ACM Mobisys/, Munich, Germany, 2018. \n
+/in Proceedings of ACM Mobisys/, Munich, Germany, June 2018. \n
 \[[./data/echotypeDemo.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/EchoTypePoster.pdf {{<font color=navy><b>}}Poster{{</b></font>}}]\]\[[https://youtu.be/9_OmofZM1Ic {{<font color=purple><b>}}Demo{{</b></font>}}]\]\[[./data/echotypeDemobib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 ~~~
 
