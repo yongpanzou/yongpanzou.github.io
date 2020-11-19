@@ -106,10 +106,20 @@ Guanhua Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Zimu
 
 === Workshop\/Poster\/Demo\/Others
 
+- *\[SenSys'20\] Smart Earpieces that Know Who You Are Quietly*
+\n Haibo Lei, Jinyuan Liu, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Kaishun Wu \n
+/in Proceedings of the ACM SenSys/, Virtual Event, Japan, November 2020. \n
+\[[./data/EarIDPubPoster.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/echotypeDemobib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
+
+- *\[SenSys'20\] Tap it and You Know What It is: A Surface Identification System Based on Acoustic Dispersion*
+\n Baojie Yuan, Shicong Hong, {{<font color=LightSlateGray><b>}}Yongpan Zou{{</b></font>}}, Kaishun Wu \n
+/in Proceedings of the ACM SenSys/, Virtual Event, Japan, November 2020. \n
+\[[./data/SurtifyPubPoster.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/echotypeDemobib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
+
 - *\[AIChallengeIoT'20\] MetaDigit: Towards A Practical Digits Input System with Few User Effort*
 \n Shicong Hong, Zhihong Xiao, Jinyuan Liu, {{<font color=LightSlateGray><b>}}Yongpan Zou*{{</b></font>}}, Kaishun Wu \n
-/in Proceedings of the ACM SenSys/, Yokohama, Japan, November 2020. \n
-\[[./data/MW-Emotion.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/echotypeDemobib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
+/in Proceedings of the ACM SenSys/, Virtual Event, Japan, November 2020. \n
+\[[./data/MetaDigitPub.pdf {{<font color=crimson><b>}}Paper{{</b></font>}}]\]\[[./data/echotypeDemobib.txt {{<font color=green><b>}}BibTex{{</b></font>}}]\]
 
 - *\[Mobicom'20\] What You Wear Know How You Feel: An Emotion Inference System with Multi-modal Wearable Devices*
 \n Dan Wang, Haibo Lei, Haozhi Dong, Yunshu Wang, {{<font color=LightSlateGray><b>}}Yongpan Zou*{{</b></font>}}, Kaishun Wu \n
